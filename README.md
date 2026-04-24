@@ -150,8 +150,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|-----------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega <br><br> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> Se colaboró con el equipo <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva <br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> Se aportó ideas <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega <br><br> |
 
 
 
@@ -181,8 +181,8 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 <p align="center">
     <img src="assets/integrantes/Espino.jpg" alt="Espino" width="170px"/>
 </p>
-- Espino Rossi, Victor Manuel - u2021 (Ingenieria de Software)
--
+- Espino Rossi, Victor Manuel - u202411567 (Ingenieria de Software)
+- Soy un estudiante de Ingenieria de Software, tengo 19 años. Cuento con sólidas habilidades para el trabajo en equipo y una gran capacidad para aprender rápido y adaptarse a nuevos retos. Comprometido con entregar resultados de calidad y siempre dispuesto a colaborar para que el equipo alcance sus objetivos.
 
   <p align="center">
     <img src="assets/integrantes/Garcia.jpg" alt="Garcia" width="170px"/>
