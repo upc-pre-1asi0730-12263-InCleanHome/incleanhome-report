@@ -149,8 +149,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|-----------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Hector Javier Ríos Pacheco**<br>**TB1**<br> ALGO <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> ALGO <br><br> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Hector Javier Ríos Pacheco**<br>**TB1**<br> ALGO <br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> ALGO <br><br> |
 
 
 
@@ -184,10 +184,10 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 -
 
   <p align="center">
-    <img src="assets/integrantes/Garcia.png" alt="Garcia" width="170px"/>
+    <img src="assets/integrantes/Garcia.jpg" alt="Garcia" width="170px"/>
 </p>
-- Garcia Cerpa, Braden Raid - u2023 (Ingeniería de Software)
--
+- Garcia Cerpa, Braden Raid - u202415618 (Ingeniería de Software)
+-Soy estudiante de Ingeniería de Software con interés en el desarrollo de soluciones tecnológicas. Me enfoco en aplicar buenas prácticas de programación y trabajo en equipo para resolver problemas reales. En este proyecto, busco aportar ideas innovadoras para lograr resultados de alta calidad.
 
 <p align="center">
     <img src="assets/integrantes/Valverde.jpeg" alt="Valverde" width="170px"/>
@@ -1093,7 +1093,15 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
-
+  <img src="./assets/web application/wireframes web application/waw1.jpg" alt="wireframes web application 1" width="400">
+  <img src="./assets/web application/wireframes web application/waw2.jpg" alt="wireframes web application 2" width="400">
+  <img src="./assets/web application/wireframes web application/waw3.jpg" alt="wireframes web application 3" width="400">
+  <img src="./assets/web application/wireframes web application/waw4.jpg" alt="wireframes web application 4" width="400">
+  <img src="./assets/web application/wireframes web application/waw5.jpg" alt="wireframes web application 5" width="400">
+  <img src="./assets/web application/wireframes web application/waw6.jpg" alt="wireframes web application 6" width="400">
+  <img src="./assets/web application/wireframes web application/waw7.jpg" alt="wireframes web application 7" width="400">
+  <img src="./assets/web application/wireframes web application/waw8.jpg" alt="wireframes web application 8" width="400">
+  <img src="./assets/web application/wireframes web application/waw9.jpg" alt="wireframes web application 9" width="400">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1127,6 +1135,16 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 
 #### 4.4.3. Web Applications Mock-ups
+  <img src="./assets/web application/mock ups web application/wam1.jpg" alt="mock ups web application 1" width="400">
+  <img src="./assets/web application/mock ups web application/wam2.jpg" alt="mock ups web application 2" width="400">
+  <img src="./assets/web application/mock ups web application/wam3.jpg" alt="mock ups web application 3" width="400">
+  <img src="./assets/web application/mock ups web application/wam4.jpg" alt="mock ups web application 4" width="400">
+  <img src="./assets/web application/mock ups web application/wam5.jpg" alt="mock ups web application 5" width="400">
+  <img src="./assets/web application/mock ups web application/wam6.jpg" alt="mock ups web application 6" width="400">
+  <img src="./assets/web application/mock ups web application/wam7.jpg" alt="mock ups web application 7" width="400">
+  <img src="./assets/web application/mock ups web application/wam8.jpg" alt="mock ups web application 8" width="400">
+  <img src="./assets/web application/mock ups web application/wam9.jpg" alt="mock ups web application 9" width="400">
+
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
@@ -1261,7 +1279,7 @@ En **InCleanHome**, se utiliza:
 #####  URL de los repositorios
 - **Organización**: *https://github.com/upc-pre-1asi0730-12263-InCleanHome*
 - **Project Report**: *https://github.com/upc-pre-1asi0730-12263-InCleanHome/incleanhome-report*
-- **Landing Page**: *(agregar enlace)*
+- **Landing Page**: *https://upc-pre-1asi0730-12263-incleanhome.github.io/InCleanHome-website/*
 
 ---
 
