@@ -192,10 +192,13 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 -
 
 <p align="center">
-    <img src="assets/integrantes/Valverde.jpeg" alt="Valverde" width="170px"/>
+    <img src="assets/integrantes/Valverde.png" alt="Valverde" width="170px"/>
 </p>
+
 - Valverde Portuguez, Natalia Ximena - u20231a816 (Ingeniería de Software)
--
+<p>
+Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Cuento con conocimientos de Marketing y estoy interesada en el UX Design y data analysis. Experiencia en trabajos de creación de startups en el ámbito laboral, lo que fortalece mis capacidades tanto en trabajos grupales e individuales como para las bases de un proyecto.
+</p>
 
 <p align="center">
     <img src="assets/integrantes/Vara.png" alt="Vara" width="170px"/>
@@ -321,7 +324,7 @@ Se incremente en un 25% el número de pagos realizados dentro de la plataforma y
 ##### 1.2.2.4. Lean UX Canvas
 
 <p align="center">
-  <img src="./assets/leanuxcanva.png" alt="Lean UX Canva" width="550">
+  <img src="./assets/leanuxcanvas/leanuxcanvas.png" alt="Lean UX Canva" width="550">
 </p>
 
 ### 1.3. Segmentos Objetivos
@@ -437,6 +440,7 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 
 #### Entrevista 1
 
+
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista1.jpg" alt="entrevista1" width="400">
 </p>
@@ -446,11 +450,10 @@ RESUMEN
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | Braden G.                                                     |
-| **Entrevistado**     | Eduardo C.                                                        |
+| **Entrevistado**     | Eduardo Chacarías Aminallo C.                                                        |
 | **Edad**             | 26                                                    |
 | **Inicio entrevista**| 00:00:00                                                      |
 | **Duración**         | 00:02:25                                                   |
-| **Enlace**           | https://drive.google.com/file/d/1kQ9oS1SqLzvjqrr3wCsFIOb-kiLa2Ihc/view?usp=drive_link |  
 
 #### Entrevista 2
 
@@ -503,7 +506,6 @@ RESUMEN
 | **Edad**             | 22                                                   |
 | **Inicio entrevista**| 00:00:00                                                      |
 | **Duración**         | 00:04:22                                                   |
-| **Enlace**           |https://drive.google.com/file/d/1D6v2lHMg_WyhY16jSSCmDQBX1xDwg8Ev/view?usp=drive_link  |
 
 
 #### Entrevista 5
@@ -521,8 +523,6 @@ RESUMEN
 | **Edad**             | - 31                                                   |
 | **Inicio entrevista**| - 0:21                                                     |
 | **Duración**         | - 5:08                                                    |
-| **Enlace**           | - https://drive.google.com/drive/u/0/folders/1dYtz3fnogOfIkAy2q4G9rz7-_puBFgJK |  
-
 
 #### Entrevista 6
 
@@ -540,6 +540,10 @@ RESUMEN
 | **Inicio entrevista**| -                                                      |
 | **Duración**         | -                                                   |
 | **Enlace**           | - |  
+
+**Link Entrevistas** 
+
+ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202317450_upc_edu_pe/IQB4sWvXGFrJT51Xtaludz0bAQtj2ECqeyWvBBIk5x_p6a8?e=XxVqfT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 #### 2.2.3. Análisis de entrevistas
@@ -738,7 +742,6 @@ Asistencia brindada a los usuarios para resolver dudas, problemas o inconvenient
 
 ### 3.1. User Stories
 
-# User Stories
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |----------------|--------|------------|--------------------------|----------------------------|
