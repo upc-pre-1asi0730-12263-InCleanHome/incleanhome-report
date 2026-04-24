@@ -23,7 +23,7 @@
     <br> <br>
     Informe de Trabajo Final
     <br> <br>
-    Startup: -
+    Startup: HomeMatch
     <br> <br>
     Producto: InCleanHome
 </h3>
@@ -35,7 +35,7 @@
 |  Choy Robles, Vanessa May Lang              |              u202317450               |
 |  Espino Rossi, Victor Manuel                |              u202411567               |
 |  Garcia Cerpa, Braden Raid                  |              u202415618               |
-|  Valverde Portuguez, Natalia Ximena         |              u20               |
+|  Valverde Portuguez, Natalia Ximena         |              u20231a816               |
 |  Vara Velásquez, Oscar Fernando             |              u202411622               |
 
 </div>
@@ -172,10 +172,12 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 #### 1.1.2. Perfiles de Integrantes del Equipo
 
 <p align="center">
-    <img src="assets/integrantes/Choy.png" alt="Choy" width="170px"/>
-</p>
+    <img src="assets/integrantes/Choy.jpeg" alt="Choy" width="170px"/>
+    
 - Choy Robles, Vanessa May Lang - u202317450 (Ingeniería de Software)
--
+<p>Soy estudiante de Ingeniería de Software con experiencia en distintos lenguajes de programación, diseño UX/UI y trabajo bajo metodologías ágiles como Scrum. Aporto al equipo una visión orientada tanto a la funcionalidad como a la experiencia del usuario, contribuyendo en el desarrollo y mejora continua del producto. Me caracterizo por mi responsabilidad, cumplimiento de plazos y participación activa en el trabajo colaborativo. 
+</p>
+
 
 <p align="center">
     <img src="assets/integrantes/Espino.jpg" alt="Espino" width="170px"/>
