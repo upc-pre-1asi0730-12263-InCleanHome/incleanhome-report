@@ -197,7 +197,7 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 -
 
 <p align="center">
-    <img src="assets/integrantes/Vara.png" alt="Vara" width="170px"/>
+    <img src="assets/integrantes/Vara.jpeg" alt="Vara" width="170px"/>
 </p>
 - Vara Velásquez, Oscar Fernando - u202411622 (Ingeniería de Software)-Enfocado en crear soluciones tecnológicas de acuerdo a las necesidades de los usuarios. Cuento una rápida adquisición de conocimientos y trabajo en equipo.
 
@@ -1204,42 +1204,14 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 <img src="assets/class-diagram/class-diagram.png" alt="class diagram" width="570px"/>
 
 
-#### 4.7.2. Class Dictionary
 
-### User
--
 
-### Student
--
-### Parent
--
-### Policy
--
-
-### Coverage
--
-
-### Claim
--
-
-### Evidence
--
-### Adjuster
--
-
-### Notification
--
-### Teleconsultation
--
-### Payment
--
-### Support
--
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
 
 <img src="./assets/C4Diagram/Digrama.png" alt="Diagrama" width="550"/>
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
