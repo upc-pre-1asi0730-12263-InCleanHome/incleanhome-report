@@ -1080,7 +1080,7 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 #### 4.3.1. Landing Page Wireframe
 {<img src="./assets/capturas landing/wireframe1.png" alt="wireframe1" width="550"/>}
 {<img src="./assets/capturas landing/wireframe2.png" alt="wireframe2" width="550"/>}
-{<img src="./assets/captura landing/wireframe3.png" alt="wireframe3" width="550"/>}
+{<img src="./assets/capturas landing/wireframe3.png" alt="wireframe3" width="550"/>}
 {<img src="./assets/capturas landing/wireframe4.png" alt="wireframe4" width="550"/>}
 
 #### 4.3.2. Landing Page Mock-up
