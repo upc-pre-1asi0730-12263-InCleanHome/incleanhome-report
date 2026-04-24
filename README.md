@@ -147,15 +147,11 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
+
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|-----------------------------|--------------|
-<<<<<<< HEAD
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva  <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega  <br><br> |
-=======
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Hector Javier Ríos Pacheco**<br>**TB1**<br> ALGO <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> ALGO <br><br> |
->>>>>>> 913e73c331b3ba5d24d4dfd98d895db53d1ec31c
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva <br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega <br><br> |
 
 
 
