@@ -1109,33 +1109,22 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 ##### inicio de sesión: 
+  <img src="./assets/web application/wireflows/w1.jpg" alt="wireflow 1" width="400">
 
+##### ver perfil:
+  <img src="./assets/web application/wireflows/w2.jpg" alt="wireflow 2" width="400">
 
-##### recuperación de contraseña
+##### abrir menu:
+  <img src="./assets/web application/wireflows/w3.jpg" alt="wireflow 3" width="400">
 
+##### mensajes:
+  <img src="./assets/web application/wireflows/w4.jpg" alt="wireflow 4" width="400">
 
-##### registro de usuario
+##### metodo de pago:
+  <img src="./assets/web application/wireflows/w5.jpg" alt="wireflow 5" width="400">
 
-
-##### edición de datos personales
-
-##### actualización de documentos
-
-
-##### registro de objetos protegidos
-
-
-##### solicitud de teleconsulta
-
-
-##### historial de reclamos
-
-
-##### prevenciones y recordatorios
-
-
-##### reeclamos en curso
-
+##### registro de sesion:
+  <img src="./assets/web application/wireflows/w6.jpg" alt="wireflow 6" width="400">
 
 #### 4.4.3. Web Applications Mock-ups
   <img src="./assets/web application/mock ups web application/wam1.jpg" alt="mock ups web application 1" width="400">
