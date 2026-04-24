@@ -478,12 +478,12 @@ RESUMEN
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Entrevistador**    | -                                                     |
-| **Entrevistado**     | -                                                        |
-| **Edad**             | -                                                    |
-| **Inicio entrevista**| -                                                      |
-| **Duración**         | -                                                   |
-| **Enlace**           | - |  
+| **Entrevistador**    |- Victor Espino Rossi                                                     |
+| **Entrevistado**     | - Gianella Hermoza                                                        |
+| **Edad**             | - 25                                                   |
+| **Inicio entrevista**| - 0:00                                                     |
+| **Duración**         | - 2:08                                                  |
+| **Enlace**           | - https://drive.google.com/file/d/1pDA9NXIAqTw4ioGbX9rY783b2cswx98o/view?usp=drive_link |  
 
 
 #### Entrevista 4
@@ -532,12 +532,12 @@ RESUMEN
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Entrevistador**    | -                                                     |
-| **Entrevistado**     | -                                                        |
-| **Edad**             | -                                                    |
-| **Inicio entrevista**| -                                                      |
-| **Duración**         | -                                                   |
-| **Enlace**           | - |  
+| **Entrevistador**    | - Victor Espino Rossi                                                     |
+| **Entrevistado**     | - Romina Hermoza                                                        |
+| **Edad**             | - 24                                                    |
+| **Inicio entrevista**| - 0:00                                                     |
+| **Duración**         | - 2:50                                                  |
+| **Enlace**           | - https://drive.google.com/file/d/1hnpP6mOK7mtS-5mSG8DJTeRD4-nUfi3_/view?usp=drive_link |  
 
 
 #### 2.2.3. Análisis de entrevistas
