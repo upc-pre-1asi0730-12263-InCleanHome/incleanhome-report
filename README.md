@@ -382,7 +382,7 @@ De acuerdo con el Ministerio de Trabajo y Promoción del Empleo, en el Perú exi
 | **Competitive Analysis Landscape** |  |  |  |  |  |
 |-------------------------|--|--|--|--|--|
 | ¿Por qué llevar a cabo este análisis?  | El objetivo de este análisis es identificar las fortalezas, debilidades, oportunidades y amenazas de los principales competidores en el mercado de servicios domésticos, con el fin de definir la ventaja competitiva de InCleanHome y su posicionamiento en el mercado peruano. |  |  |  |  |  |
-|  |  | **InCleanHome**<br><img src="./assets/competidores/resicare.png" alt="ResiCare" width="200"> | **Zolvers**<br><img src="./assets/competidores/zolvers.png" alt="Zolvers" width="200"> | **TuAliada**<br><img src="./assets/competidores/tualiada.png" alt="TuAliada" width="450"> | **Servicios Informales (Facebook, etc)**<br><img src="./assets/competidores/facebook.webp" alt="Facebook" width="100"> |
+|  |  | **InCleanHome**<br><img src="./assets/competidores/incleanhome.png" alt="InCleanHome" width="1000"> | **Zolvers**<br><img src="./assets/competidores/zolvers.png" alt="Zolvers" width="200"> | **TuAliada**<br><img src="./assets/competidores/tualiada.png" alt="TuAliada" width="450"> | **Servicios Informales (Facebook, etc)**<br><img src="./assets/competidores/facebook.webp" alt="Facebook" width="75"> |
 | **Perfil** | Overview | Plataforma digital que conecta usuarios con trabajadoras del hogar mediante filtros avanzados y sistema de reseñas. | Plataforma digital que conecta usuarios con personal doméstico verificado en LATAM.| Empresa formal que brinda servicios de limpieza con personal contratado. | Medio informal para contactar trabajadoras del hogar sin intermediarios formales. |
 | | **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Alta personalización, seguridad, filtros avanzados y adaptación al mercado peruano. | Personal verificado y sistema de reputación consolidado. | Servicio confiable con personal capacitado. | Bajo costo y fácil acceso. |
 | **Perfil de marketing** |  |  |  |  |  |
@@ -446,15 +446,18 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
   <img src="./assets/entrevistas/videos/entrevista1.jpg" alt="entrevista1" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | Braden G.                                                     |
 | **Entrevistado**     | Eduardo Chacarías Aminallo C.                                                        |
-| **Edad**             | 26                                                    |
+| **Edad**             | 26 años                                                  |
 | **Inicio entrevista**| 00:00:00                                                      |
 | **Duración**         | 00:02:25                                                   |
+- Perfil: Ingeniero eléctrico residente en La Molina que trabaja en San Isidro.
+- Necesidades: Requiere limpieza general del hogar una vez por semana y prefiere personal con experiencia y buenas referencias.
+- Retos: Presenta inseguridad al contratar desconocidos y teme la falta de garantías ante incidentes.
+- Expectativas: Valora la verificación de identidad, un sistema de reseñas y la facilidad para agendar.
+
 
 #### Entrevista 2
 
@@ -462,17 +465,16 @@ RESUMEN
   <img src="./assets/entrevistas/videos/Entrevista5.png" alt="entrevista2" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | - Oscar Fernando Vara Velasquez                                                     |
 | **Entrevistado**     | - Elvira Vara Velasquez                                                       |
-| **Edad**             | - 23                                                   |
+| **Edad**             | - 23  años                                                 |
 | **Inicio entrevista**| - 0:25                                                     |
 | **Duración**         | - 5:41                                                  |
-| **Enlace**           |  https://drive.google.com/drive/u/0/folders/1dYtz3fnogOfIkAy2q4G9rz7-_puBFgJK|
-
+- Perfil: Usuario que busca limpieza profunda (muebles, cortinas) cada 7 o 15 días.
+- Retos: Depende exclusivamente del "boca a boca" y la confianza en conocidos para encontrar personal.
+- Expectativas: Sugiere que la plataforma realice filtros rigurosos como antecedentes penales, entrevistas y test psicológicos.
 
 #### Entrevista 3
 
@@ -480,17 +482,15 @@ RESUMEN
   <img src="./assets/entrevistas/videos/entrevista3.jpg" alt="entrevista3" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    |- Victor Espino Rossi                                                     |
 | **Entrevistado**     | - Gianella Hermoza                                                        |
-| **Edad**             | - 25                                                   |
+| **Edad**             | - 25   años                                                |
 | **Inicio entrevista**| - 0:00                                                     |
-| **Duración**         | - 2:08                                                  |
-| **Enlace**           | - https://drive.google.com/file/d/1pDA9NXIAqTw4ioGbX9rY783b2cswx98o/view?usp=drive_link |  
-
+| **Duración**         | - 2:08                                                  | 
+- Perfil: Contrata servicios de limpieza y cocina mensualmente.
+- Expectativas: Se centra en la importancia de las reseñas del personal y en contar con una plataforma funcional para agilizar el proceso.
 
 #### Entrevista 4
 
@@ -498,16 +498,16 @@ RESUMEN
   <img src="./assets/entrevistas/videos/entrevista4.jpg" alt="entrevista4" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | Braden G.                                                     |
 | **Entrevistado**     | Lupe D.                                                        |
-| **Edad**             | 22                                                   |
+| **Edad**             | 22 años                                                  |
 | **Inicio entrevista**| 00:00:00                                                      |
 | **Duración**         | 00:04:22                                                   |
-
+- Perfil: Residente de San Juan de Lurigancho con un año y medio de experiencia en limpieza y cuidado de niños.
+- Retos: Dificultad para encontrar ofertas constantes (esperas de hasta un mes) y problemas con clientes que piden tareas no pactadas (como cocinar) sin pago extra.
+- Expectativas: Desea una comunicación directa con los clientes para negociar precios y servicios de forma clara.
 
 #### Entrevista 5
 
@@ -515,15 +515,16 @@ RESUMEN
   <img src="./assets/entrevistas/videos/Entrevista2.png" alt="entrevista5" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | - Oscar Fernando Vara Velasquez                                                   |
 | **Entrevistado**     | - Rosa Chavez                                                       |
-| **Edad**             | - 31                                                   |
+| **Edad**             | - 31 años                                                  |
 | **Inicio entrevista**| - 0:21                                                     |
 | **Duración**         | - 5:08                                                    |
+- Perfil: Ofrece limpieza integral de espacios del hogar con 2 años de experiencia laboral.
+- Retos: La dificultad de darse a conocer de forma independiente y la lentitud de depender solo de recomendaciones personales.
+- Expectativas: Busca una herramienta que le permita organizar sus horarios y contar con valoraciones (reviews) para atraer clientes más fácilmente.
 
 #### Entrevista 6
 
@@ -531,16 +532,14 @@ RESUMEN
   <img src="./assets/entrevistas/videos/entrevista6.jpg" alt="entrevista6" width="400">
 </p>
 
-RESUMEN
-
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | - Victor Espino Rossi                                                     |
 | **Entrevistado**     | - Romina Hermoza                                                        |
-| **Edad**             | - 24                                                    |
+| **Edad**             | - 24  años                                                  |
 | **Inicio entrevista**| - 0:00                                                     |
-| **Duración**         | - 2:50                                                  |
-| **Enlace**           | - https://drive.google.com/file/d/1hnpP6mOK7mtS-5mSG8DJTeRD4-nUfi3_/view?usp=drive_link |  
+| **Duración**         | - 2:50                                                  |- Perfil: Ofertante de servicios domésticos interesada en la digitalización.
+- Expectativas: Valora la capacidad de programar servicios y, al igual que sus colegas, destaca la necesidad de un canal de comunicación directo y fluido con el cliente a través de la aplicación.
 
 **Link Entrevistas** 
 
@@ -551,39 +550,37 @@ RESUMEN
 
 1. Segmento #1: Clientes (Usuarios que demandan servicios domésticos)
 
--Las entrevistas revelan que los usuarios jóvenes (25-26 años) demandan servicios domésticos con una frecuencia de una a tres veces por mes, priorizando la limpieza y la cocina. Actualmente, ambos dependen de métodos informales como referencias personales o grupos de Facebook debido a una profunda desconfianza hacia los desconocidos y a la falta de garantías de seguridad. El factor crítico de decisión para utilizar una plataforma digital no es solo el servicio en sí, sino la disponibilidad de un sistema robusto de reseñas, la verificación de antecedentes del personal y una gestión de horarios que se adapte a su ritmo de vida profesional.
-
-En conclusión, la oportunidad para una aplicación web reside en transformar la informalidad del sector en un servicio de confianza mediante la transparencia de datos. La solución debe actuar como un filtro de seguridad que valide la identidad y experiencia de los trabajadores, mitigando el miedo al robo o al incumplimiento. Para que el proyecto sea viable, la propuesta de valor debe centrarse en el ahorro de tiempo y en la paz mental del cliente, ofreciendo un soporte activo y un sistema de reputación que replique la fiabilidad del "boca a boca" tradicional en un entorno digital eficiente.
+Las entrevistas revelan que los usuarios jóvenes (23-26 años) demandan servicios domésticos con una frecuencia que varía desde una vez por semana hasta una vez al mes , priorizando la limpieza general, limpieza profunda de muebles y cocina. Actualmente, dependen de métodos informales como el "boca a boca" a través de conocidos o grupos de Facebook , debido a una profunda desconfianza hacia los desconocidos y al temor por la seguridad del hogar. El factor crítico de decisión para utilizar una plataforma digital es la existencia de un filtro riguroso que incluya verificación de antecedentes penales, pruebas psicológicas y un sistema de reseñas basado en experiencias previas.
+En conclusión, la oportunidad para la aplicación reside en transformar la informalidad del sector en un servicio de confianza mediante la transparencia de datos. La solución debe actuar como un filtro de seguridad que mitigue el miedo al incumplimiento o la inseguridad. Para que el proyecto sea viable, la propuesta de valor debe centrarse en el ahorro de tiempo y la "paz mental" del cliente , ofreciendo soporte al cliente y un sistema de reputación que replique la fiabilidad de las recomendaciones tradicionales en un entorno digital eficiente.
 
 2. Segmento #2: Trabajadoras del hogar (Oferta de servicios)
 
--Las entrevistas con las trabajadoras del hogar revelan que su principal desafío es la inestabilidad laboral y la falta de canales formales para conectar con clientes de confianza, especialmente en rubros sensibles como el cuidado de niños o limpieza general. Romina (6 años de experiencia) y Lupe (1.5 años de experiencia) coinciden en que la búsqueda independiente es lenta y carece de filtros de seguridad, lo que las expone a tiempos muertos prolongados entre contratos y a abusos laborales donde se les exige realizar tareas no pactadas. Ambas trabajadoras muestran un alto interés en una plataforma digital que sea móvil, de fácil acceso y que actúe como un respaldo legal y profesional, permitiéndoles gestionar sus horarios de forma ordenada y ampliar su mercado de clientes más allá de sus zonas de residencia actuales.
-
-En conclusión, para que la aplicación web sea exitosa desde la perspectiva del prestador de servicios, debe funcionar como una herramienta de empoderamiento y protección laboral, no solo como un tablón de anuncios. Los hallazgos sugieren que las funcionalidades críticas deben incluir un sistema de comunicación directa para negociar términos y precios claramente, un calendario integrado para evitar cruces de horarios y, fundamentalmente, un perfil profesional donde sus habilidades y el cumplimiento de la ley sean visibles. La plataforma tiene el potencial de profesionalizar el sector al reducir la brecha de desconfianza entre padres/empleadores y trabajadoras, transformando la velocidad de contratación en un beneficio mutuo de eficiencia y respeto.
+Las entrevistas con las trabajadoras revelan que su principal desafío es la inestabilidad laboral; Lupe (1.5 años de experiencia) y Rosa (2 años de experiencia) coinciden en que la búsqueda independiente es lenta, pudiendo pasar semanas o meses sin contratos nuevos. Además, enfrentan abusos donde los clientes exigen tareas no pactadas (como cocinar cuando se contrató limpieza) amparados en que "ya se pagó". Ambas muestran un alto interés en una plataforma digital que actúe como un respaldo profesional , permitiéndoles gestionar sus horarios de forma ordenada y ampliar su mercado más allá de sus zonas de residencia para encontrar ofertas más factibles y cercanas.
+En conclusión, para que la aplicación sea exitosa, debe funcionar como una herramienta de empoderamiento y protección laboral. Los hallazgos sugieren que las funcionalidades críticas deben incluir un sistema de comunicación directa para negociar términos y precios claramente , un calendario integrado para organizar servicios y un perfil profesional donde se valore su experiencia mediante reseñas. La plataforma tiene el potencial de profesionalizar el sector al reducir la brecha de desconfianza y facilitar que la trabajadora no tenga que "recomendarse a sí misma" constantemente, sino que su trabajo hable por ella a través del sistema.
 
 1. Frecuencia de uso vs disponibilidad laboral:
 <p align="center">
-  <img src="./assets/entrevistas/estadisticas/frecuencia.jpg" alt="Frecuencia de uso vs disponibilidad laboral" width="550">
+  <img src="./assets/entrevistas/estadisticas/frecuencia.png" alt="Frecuencia de uso vs disponibilidad laboral" width="550">
 </p>
 
 2. Factores de confianza (clientes vs trabajadoras)
 <p align="center">
-  <img src="./assets/entrevistas/estadisticas/confianza.jpg" alt="Factores de confianza" width="550">
+  <img src="./assets/entrevistas/estadisticas/confianza.png" alt="Factores de confianza" width="550">
 </p>
 
 3. Uso y aceptación de plataformas digitales
 <p align="center">
-  <img src="./assets/entrevistas/estadisticas/aceptacion.jpg" alt="Uso y aceptación de plataformas" width="550">
+  <img src="./assets/entrevistas/estadisticas/aceptacion.png" alt="Uso y aceptación de plataformas" width="550">
 </p>
 
 4. Principales dificultades (oferta vs demanda)
 <p align="center">
-  <img src="./assets/entrevistas/estadisticas/dificultades.jpg" alt="Principales dificultades" width="550">
+  <img src="./assets/entrevistas/estadisticas/dificultades.png" alt="Principales dificultades" width="550">
 </p>
 
 5. Funcionalidades clave esperadas
 <p align="center">
-  <img src="./assets/entrevistas/estadisticas/funcionalidades.jpg" alt="Funcionalidades clave esperadas" width="550">
+  <img src="./assets/entrevistas/estadisticas/funcionalidades.png" alt="Funcionalidades clave esperadas" width="550">
 </p>
 
 ### 2.3. Needfinding
