@@ -508,7 +508,7 @@ RESUMEN
 #### Entrevista 5
 
 <p align="center">
-  <img src="./assets/entrevistas/videos/entrevista2.png" alt="entrevista5" width="400">
+  <img src="./assets/entrevistas/videos/Entrevista2.png" alt="entrevista5" width="400">
 </p>
 
 RESUMEN
