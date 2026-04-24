@@ -147,10 +147,11 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo,
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
+
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|-----------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Hector Javier Ríos Pacheco**<br>**TB1**<br> ALGO <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> ALGO <br><br> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> Se colaboró con el equipo <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> realizar web application en grupo <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva <br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> Se aportó ideas <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> participacion activa en reuniones virtuales <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega <br><br> |
 
 
 
@@ -182,14 +183,14 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 <p align="center">
     <img src="assets/integrantes/Espino.jpg" alt="Espino" width="170px"/>
 </p>
-- Espino Rossi, Victor Manuel - u2021 (Ingenieria de Software)
--
+- Espino Rossi, Victor Manuel - u202411567 (Ingenieria de Software)
+- Soy un estudiante de Ingenieria de Software, tengo 19 años. Cuento con sólidas habilidades para el trabajo en equipo y una gran capacidad para aprender rápido y adaptarse a nuevos retos. Comprometido con entregar resultados de calidad y siempre dispuesto a colaborar para que el equipo alcance sus objetivos.
 
   <p align="center">
-    <img src="assets/integrantes/Garcia.png" alt="Garcia" width="170px"/>
+    <img src="assets/integrantes/Garcia.jpg" alt="Garcia" width="170px"/>
 </p>
-- Garcia Cerpa, Braden Raid - u2023 (Ingeniería de Software)
--
+- Garcia Cerpa, Braden Raid - u202415618 (Ingeniería de Software)
+-Soy estudiante de Ingeniería de Software con interés en el desarrollo de soluciones tecnológicas. Me enfoco en aplicar buenas prácticas de programación y trabajo en equipo para resolver problemas reales. En este proyecto, busco aportar ideas innovadoras para lograr resultados de alta calidad.
 
 <p align="center">
     <img src="assets/integrantes/Valverde.png" alt="Valverde" width="170px"/>
@@ -201,10 +202,10 @@ Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Apli
 </p>
 
 <p align="center">
-    <img src="assets/integrantes/Vara.png" alt="Vara" width="170px"/>
+    <img src="assets/integrantes/Vara.jpeg" alt="Vara" width="170px"/>
 </p>
-- Vara Velásquez, Oscar Fernando - u2022 (Ingeniería de Software)
--
+- Vara Velásquez, Oscar Fernando - u202411622 (Ingeniería de Software)-Enfocado en crear soluciones tecnológicas de acuerdo a las necesidades de los usuarios. Cuento una rápida adquisición de conocimientos y trabajo en equipo.
+
 
 
 ### 1.2. Solution Profile
@@ -483,12 +484,12 @@ RESUMEN
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Entrevistador**    | -                                                     |
-| **Entrevistado**     | -                                                        |
-| **Edad**             | -                                                    |
-| **Inicio entrevista**| -                                                      |
-| **Duración**         | -                                                   |
-| **Enlace**           | - |  
+| **Entrevistador**    |- Victor Espino Rossi                                                     |
+| **Entrevistado**     | - Gianella Hermoza                                                        |
+| **Edad**             | - 25                                                   |
+| **Inicio entrevista**| - 0:00                                                     |
+| **Duración**         | - 2:08                                                  |
+| **Enlace**           | - https://drive.google.com/file/d/1pDA9NXIAqTw4ioGbX9rY783b2cswx98o/view?usp=drive_link |  
 
 
 #### Entrevista 4
@@ -511,7 +512,7 @@ RESUMEN
 #### Entrevista 5
 
 <p align="center">
-  <img src="./assets/entrevistas/videos/entrevista2.png" alt="entrevista5" width="400">
+  <img src="./assets/entrevistas/videos/Entrevista2.png" alt="entrevista5" width="400">
 </p>
 
 RESUMEN
@@ -534,12 +535,12 @@ RESUMEN
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Entrevistador**    | -                                                     |
-| **Entrevistado**     | -                                                        |
-| **Edad**             | -                                                    |
-| **Inicio entrevista**| -                                                      |
-| **Duración**         | -                                                   |
-| **Enlace**           | - |  
+| **Entrevistador**    | - Victor Espino Rossi                                                     |
+| **Entrevistado**     | - Romina Hermoza                                                        |
+| **Edad**             | - 24                                                    |
+| **Inicio entrevista**| - 0:00                                                     |
+| **Duración**         | - 2:50                                                  |
+| **Enlace**           | - https://drive.google.com/file/d/1hnpP6mOK7mtS-5mSG8DJTeRD4-nUfi3_/view?usp=drive_link |  
 
 **Link Entrevistas** 
 
@@ -1083,10 +1084,10 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 
 #### 4.3.1. Landing Page Wireframe
-{<img src="./assets/landing/wireframe1.png" alt="wireframe1" width="550"/>}
-{<img src="./assets/landing/wireframe2.png" alt="wireframe2" width="550"/>}
-{<img src="./assets/landing/wireframe3.png" alt="wireframe3" width="550"/>}
-{<img src="./assets/landing/wireframe4.png" alt="wireframe4" width="550"/>}
+{<img src="./assets/capturas landing/wireframe1.png" alt="wireframe1" width="550"/>}
+{<img src="./assets/capturas landing/wireframe2.png" alt="wireframe2" width="550"/>}
+{<img src="./assets/capturas landing/wireframe3.png" alt="wireframe3" width="550"/>}
+{<img src="./assets/capturas landing/wireframe4.png" alt="wireframe4" width="550"/>}
 
 #### 4.3.2. Landing Page Mock-up
 {<img src="./assets/capturas landing/mockup1.png" alt="mockup1" width="550"/>}
@@ -1098,7 +1099,15 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
-
+  <img src="./assets/web application/wireframes web application/waw1.jpg" alt="wireframes web application 1" width="400">
+  <img src="./assets/web application/wireframes web application/waw2.jpg" alt="wireframes web application 2" width="400">
+  <img src="./assets/web application/wireframes web application/waw3.jpg" alt="wireframes web application 3" width="400">
+  <img src="./assets/web application/wireframes web application/waw4.jpg" alt="wireframes web application 4" width="400">
+  <img src="./assets/web application/wireframes web application/waw5.jpg" alt="wireframes web application 5" width="400">
+  <img src="./assets/web application/wireframes web application/waw6.jpg" alt="wireframes web application 6" width="400">
+  <img src="./assets/web application/wireframes web application/waw7.jpg" alt="wireframes web application 7" width="400">
+  <img src="./assets/web application/wireframes web application/waw8.jpg" alt="wireframes web application 8" width="400">
+  <img src="./assets/web application/wireframes web application/waw9.jpg" alt="wireframes web application 9" width="400">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -1132,6 +1141,16 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 
 #### 4.4.3. Web Applications Mock-ups
+  <img src="./assets/web application/mock ups web application/wam1.jpg" alt="mock ups web application 1" width="400">
+  <img src="./assets/web application/mock ups web application/wam2.jpg" alt="mock ups web application 2" width="400">
+  <img src="./assets/web application/mock ups web application/wam3.jpg" alt="mock ups web application 3" width="400">
+  <img src="./assets/web application/mock ups web application/wam4.jpg" alt="mock ups web application 4" width="400">
+  <img src="./assets/web application/mock ups web application/wam5.jpg" alt="mock ups web application 5" width="400">
+  <img src="./assets/web application/mock ups web application/wam6.jpg" alt="mock ups web application 6" width="400">
+  <img src="./assets/web application/mock ups web application/wam7.jpg" alt="mock ups web application 7" width="400">
+  <img src="./assets/web application/mock ups web application/wam8.jpg" alt="mock ups web application 8" width="400">
+  <img src="./assets/web application/mock ups web application/wam9.jpg" alt="mock ups web application 9" width="400">
+
 
 
 #### 4.4.4. Web Applications User Flow Diagrams
@@ -1190,42 +1209,14 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 <img src="assets/class-diagram/class-diagram.png" alt="class diagram" width="570px"/>
 
 
-#### 4.7.2. Class Dictionary
 
-### User
--
 
-### Student
--
-### Parent
--
-### Policy
--
-
-### Coverage
--
-
-### Claim
--
-
-### Evidence
--
-### Adjuster
--
-
-### Notification
--
-### Teleconsultation
--
-### Payment
--
-### Support
--
 ### 4.8. Database Design
 
 #### 4.8.1. Database Diagram
 
 <img src="./assets/C4Diagram/Digrama.png" alt="Diagrama" width="550"/>
+
 ## Capítulo V: Product Implementation, Validation & Deployment
 
 ### 5.1. Software Configuration Management
@@ -1266,7 +1257,7 @@ En **InCleanHome**, se utiliza:
 #####  URL de los repositorios
 - **Organización**: *https://github.com/upc-pre-1asi0730-12263-InCleanHome*
 - **Project Report**: *https://github.com/upc-pre-1asi0730-12263-InCleanHome/incleanhome-report*
-- **Landing Page**: *(agregar enlace)*
+- **Landing Page**: *https://upc-pre-1asi0730-12263-incleanhome.github.io/InCleanHome-website/*
 
 ---
 
