@@ -149,8 +149,8 @@ que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Ou
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|-----------------------------|--------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Hector Javier Ríos Pacheco**<br>**TB1**<br> ALGO <br><br> |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> ALGO <br><br> |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se trabajó de manera proactiva  <br><br> |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Choy Robles, Vanessa May Lang**<br>**TB1**<br> ALGO <br><br>**Espino Rossi, Victor Manuel**<br>**TB1**<br> ALGO <br><br>**Garcia Cerpa, Braden Raid**<br>**TB1**<br> ALGO <br><br>**Valverde Portuguez, Natalia Ximena:**<br>**TB1**<br> ALGO <br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1**<br> Se cumplió con los plazos de entrega  <br><br> |
 
 
 
@@ -198,8 +198,8 @@ El objetivo de este proyecto es facilitar la búsqueda de un empleado del hogar 
 <p align="center">
     <img src="assets/integrantes/Vara.png" alt="Vara" width="170px"/>
 </p>
-- Vara Velásquez, Oscar Fernando - u2022 (Ingeniería de Software)
--
+- Vara Velásquez, Oscar Fernando - u202411622 (Ingeniería de Software)-Enfocado en crear soluciones tecnológicas de acuerdo a las necesidades de los usuarios. Cuento una rápida adquisición de conocimientos y trabajo en equipo.
+
 
 
 ### 1.2. Solution Profile
