@@ -1462,15 +1462,28 @@ El equipo logró cumplir con los objetivos del Sprint 1, estableciendo una base 
 
 ## 6. Conclusiones y Recomendaciones
 #### Conclusiones
-- 
+- A diferencia de nuestros competidores en el mercado, nuestro proyecto, InCleanHome, se posiciona más con un enfoque de personalización profunda y un sistema de verificación de antecedentes y seguros contra daños, lo cual responde directamente a las necesidades de los segmentos objetivos de nuestro proyecto, que son las trabajadoras del hogar y los clientes que buscan servicios domésticos.
+
+- La definición de requisitos funcionales, no funcionales y las historias de usuarios indican que el proyecto tiene viabilidad técnica y operativa, está listo para una transición continua hacia las fases de diseño de arquitectura y desarrollo que se implemente en el siguiente avance.
+
+- InCleanHome enfrenta una problemática real que sucede en Lima Metropolitana, que es la informalidad que supera el 95% en el sector de servicios domésticos y la inseguridad en cuanto a la contratación de aquellos mismos. El análisis profundo e investigación que se realizó en este proyecto demuestra que sí existe una disposición en los clientes que necesitan servicios domésticos y las trabajadoras del hogar adoptar esta solución digital que actúa como una plataforma de confianza para resolver sus necesidades.
 
 #### Recomendaciones
 
-- 
+- Optimización de Logística por Geolocalización: Debido a que las trabajadoras encuentran dificultades cuando las ofertas son lejos de su hogar , se recomienda priorizar en el algoritmo de búsqueda los emparejamientos por cercanía geográfica para reducir costos y tiempos de traslado.
+
+
+- Incentivar el Sistema de Reputación: Para mitigar la dependencia del "boca a boca" tradicional , se debe motivar a los usuarios a dejar reseñas detalladas mediante beneficios en la plataforma, ayudando a trabajadoras a construir una marca personal digital sólida.
+
+- Proporcionar un turorial de uso de la plataforma: Dado que el 100% de los segmentos utiliza métodos informales y busca simplicidad , se recomienda incluir tutoriales interactivos dentro de la aplicación para que las trabajadoras del hogar gestionen su perfil y calendario sin barreras tecnológicas.
 
 
 ## 7. Bibliografía
 
--
+- Congreso de la República del Perú. (2020). Ley N.º 31047, Ley de las Trabajadoras y Trabajadores del Hogar. Diario Oficial El Peruano.
+
+- Instituto Nacional de Estadística e Informática [INEI]. (2026). Encuesta Nacional de Hogares (ENAHO): Informe sobre el empleo y la situación laboral en Lima Metropolitana. Lima, Perú.
+
+- Ministerio de Trabajo y Promoción del Empleo [MTPE]. (2026). Reporte sobre la informalidad en el sector del trabajo doméstico remunerado en el Perú. Lima, Perú.
 
 ## 8. Anexos
