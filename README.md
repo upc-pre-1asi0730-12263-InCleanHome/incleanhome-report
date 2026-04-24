@@ -1310,15 +1310,30 @@ Desarrollar una Landing Page funcional que comunique la propuesta de valor del p
 - US02: Como visitante, deseo navegar entre secciones para explorar el contenido.
 - US03: Como visitante, deseo ver información clara y organizada para generar confianza.
 
+| Sprint # | Sprint 1 |
+| :--- | :--- |
+| **Sprint Planning Background** | Desarrollo de la Landing Page y consolidación de artefactos de análisis y diseño. |
+| **Date** | 2026-04-23 |
+| **Time** | 16:00 |
+| **Location** | Server Report |
+| **Prepared by** | Team Leader |
+| **Attendees** | All members |
+| **Sprint Review Summary** | Se implementó con éxito la estructura base del frontend, el diseño responsive y la propuesta de valor, cumpliendo con las 4 User Stories priorizadas. |
+| **Sprint Goal** | Desarrollar una Landing Page funcional que comunique la propuesta de valor del producto InCleanHome y refleje el diseño definido en los mockups. |
+| **Sprint Velocity** | 100% |
+| **Sum of Story Points** | 4 US (US-L07, US-L08, US-L09, US-L10) |
+
+
 ---
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
-| Aspecto | Responsable(s) |
-|--------|----------------|
-| Desarrollo Frontend (Landing Page) | Equipo |
-| UX/UI Design | Equipo |
-| Documentación | Equipo |
-| Gestión del Proyecto | Equipo |
+| Team Member | GitHub Username | Landing Page leader(L) collaborator(C)  |
+| :--- | :--- | :--- |
+| Garcia Cerpa, Braden Raid | BradenGarcia | C |
+| Espino Rossi, Victor Manuel | Vmer140 | C |
+| Vara Velasquez, Oscar Fernando | Varometro159 | C |
+| Choy Robles, Vanessa May Lang | VMLCR | C |
+| Valverde Portuguez, Natalia Ximena | NatValverde15 | L |
 
 **Nota:**  
 Debido al alcance del primer avance, todos los integrantes participaron en conjunto en las actividades de desarrollo y documentación.
@@ -1332,6 +1347,25 @@ Debido al alcance del primer avance, todos los integrantes participaron en conju
 El Sprint Backlog se definió a partir de las User Stories priorizadas en el Product Backlog.  
 Cada historia fue descompuesta en tareas técnicas para facilitar su implementación y asignación dentro del equipo.
 
+| US ID | User Story / Tareas Técnicas | Responsable | Estado |
+| :--- | :--- | :--- | :--- |
+| **US-L08** | **Visualización de propuesta de valor** | **Equipo** | **Completado** |
+| | Diseñar sección "Features" en base a mockups | Equipo | Hecho |
+| | Implementar estructura HTML | Equipo | Hecho |
+| | Aplicar estilos CSS | Equipo | Hecho |
+| | Ajustar diseño responsive | Equipo | Hecho |
+| **US-L09** | **Consumo de testimonios** | **Equipo** | **Completado** |
+| | Diseñar sección de testimonios | Equipo | Hecho |
+| | Implementar cards de testimonios | Equipo | Hecho |
+| | Aplicar estilos visuales | Equipo | Hecho |
+| **US-L07** | **Suscripción a Newsletter** | **Equipo** | **Completado** |
+| | Implementar input de correo en footer | Equipo | Hecho |
+| | Validar formato de email (frontend) | Equipo | Hecho |
+| | Diseñar sección footer | Equipo | Hecho |
+| **US-L10** | **Adaptabilidad móvil** | **Equipo** | **Completado** |
+| | Implementar menú hamburguesa | Equipo | Hecho |
+| | Configurar estilos responsive | Equipo | Hecho |
+| | Probar visualización en móviles | Equipo | Hecho |
 ---
 
 ###  Desglose por User Stories
