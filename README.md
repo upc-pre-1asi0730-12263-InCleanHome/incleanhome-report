@@ -45,9 +45,49 @@
 
 ## Registro de Versiones del Informe
 
+### Registro de Versiones del Informe
 
+| Versión | Fecha | Autor(es) | Descripción de modificación |
+| :--- | :--- | :--- | :--- |
+| 0.1 | 10/04/2026 | Valverde, Natalia | Creación del repositorio. Adición de Startup & Solution Profile, Antecedentes, Problemática, Lean UX y Segmentos Objetivos. |
+| 0.2 | 12/04/2026 | Choy, Vanessa | Incorporación de Análisis Competitivo, Diseño y Análisis de Entrevistas, y artefactos de Needfinding (User Personas, Task Matrix, Journey Mapping y Empathy Mapping). |
+| 0.3 | 14/04/2026 | Choy, Vanessa; Valverde, Natalia | Redacción colaborativa de User Stories, Impact Mapping y estructuración del Product Backlog inicial; adición de Ubiquitous Language. |
+| 0.4 | 16/04/2026 | Espino, Victor | Diseño de Style Guidelines, Information Architecture y bases del Software Object-Oriented Design (Class Diagrams). |
+| 0.5 | 18/04/2026 | Garcia, Braden | Incorporación de Wireframes y Mockups tanto para la Landing Page como para la Web Application. |
+| 0.6 | 20/04/2026 | Vara, Oscar | Adición de Domain-Driven Design (EventStorming), Software Configuration Management y despliegue inicial de la Landing Page. |
+| 0.7 | 22/04/2026 | Equipo Completo | Revisión de consistencia, validación de Student Outcomes y cierre de la documentación para la entrega TB1. |
 
 ## Project Report Collaboration Insights  
+
+### Project Report Collaboration Insights
+
+#### **TB1**
+Todas las actividades asignadas para la entrega de la TB1 han sido completadas satisfactoriamente. El equipo **HomeMatch** utilizó un flujo de trabajo basado en GitHub para centralizar la documentación en formato Markdown, asegurando la trazabilidad de cada aporte y el control de versiones.
+
+La colaboración se distribuyó de manera equitativa: **Natalia Valverde** estableció los cimientos del negocio y Lean UX; **Vanessa Choy** lideró la investigación de campo, el análisis de usuarios y la especificación de requerimientos; **Victor Espino** y **Braden Garcia** definieron la experiencia visual y arquitectura de información; mientras que **Oscar Vara** gestionó la arquitectura técnica, configuración y el despliegue.
+
+El repositorio del informe se encuentra en el siguiente enlace:
+[https://github.com/tu-organizacion/tu-repositorio-informe](https://github.com/tu-organizacion/tu-repositorio-informe)
+
+#### **Evidencias de Colaboración (GitHub Insights)**
+
+**Insights - Contributors**
+<p align="center">
+  <img src="./assets/evidencias/github-insights-contributors.png" alt="GitHub Contributors Insight" width="600">
+</p>
+
+**Network Graph**
+<p align="center">
+  <img src="./assets/evidencias/github-network-graph1.png" alt="GitHub Network Graph" width="600">
+</p>
+<p align="center">
+  <img src="./assets/evidencias/github-network-graph2.png" alt="GitHub Network Graph" width="600">
+</p>
+
+**Historial de Commits**
+<p align="center">
+  <img src="./assets/evidencias/github-commits-history.png" alt="Historial de Commits" width="600">
+</p>
 
 
 # Tabla de Contenidos
