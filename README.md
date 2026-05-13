@@ -1336,32 +1336,8 @@ Desarrollar una Landing Page funcional que comunique la propuesta de valor del p
 | **Sprint Velocity** | 100% |
 | **Sum of Story Points** | 4 US (US-L07, US-L08, US-L09, US-L10) |
 
-#####  Sprint Planning 2
-
-**Sprint Goal:**
-Desarrollar el frontend de la futura web app siguiendo los diseños establecidos en el figma. 
-
-**Duración del Sprint:**
-2 semanas
-
-**Alcance del Sprint:**
-- Implementación del frontend de la webb application
-- Estructura base del proyecto frontend
-- Integración del diseño UX/UI previamente definido
 
 
-| Sprint # | Sprint 2 |
-| :--- | :--- |
-| **Sprint Planning Background** | Desarrollo del front de la webb app y el modelo de negocio a travez de la implementacion de los bounded context |
-| **Date** | 2026-05-12 |
-| **Time** | 16:00 |
-| **Location** | Server Report |
-| **Prepared by** | Team Leader |
-| **Attendees** | All members |
-| **Sprint Review Summary** | Se implementó con éxito la estructura base del frontend, el diseño responsive y la propuesta de valor, cumpliendo con las 4 User Stories priorizadas. |
-| **Sprint Goal** | Desarrollar una webb app siguiendo una arquitectura de negocio usando los bounded contexts correctos para esta implementacion |
-| **Sprint Velocity** | 100% |
-| **Sum of Story Points** | EP 1-2-3-4-5-6 |
 ---
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1405,25 +1381,7 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | | Configurar estilos responsive | Equipo | Hecho |
 | | Probar visualización en móviles | Equipo | Hecho |
 ---
-#### 5.2.1.4. Sprint Backlog 2
 
-| USER STORY | TÍTULO | DESCRIPCIÓN | ESTIMACIÓN HORAS | ASSIGNED TO | ESTADO |
-|------------|---------|-------------|------------------|-------------|--------|
-| US-01 | Registro de cliente | Implementación de la interfaz frontend para el registro de clientes en la plataforma. | 6 h | Equipo | DONE |
-| US-02 | Inicio de sesión cliente | Desarrollo del formulario de inicio de sesión para clientes. | 5 h | Equipo | DONE |
-| US-20 | Recuperar contraseña cliente | Diseño e implementación de la pantalla de recuperación de contraseña. | 4 h | Equipo | DONE |
-| US-04 | Filtrar por ubicación | Implementación de filtros visuales por ubicación en la búsqueda de trabajadoras. | 5 h | Equipo | DONE |
-| US-06 | Filtrar por habilidades | Desarrollo de filtros frontend por habilidades de trabajadoras. | 4 h | Equipo | DONE |
-| US-07 | Filtrar por disponibilidad | Implementación de filtros por disponibilidad y horarios. | 4 h | Equipo | DONE |
-| US-10 | Ordenar resultados | Implementación de opciones de ordenamiento visual de resultados. | 3 h | Equipo | DONE |
-| US-05 | Ver perfiles | Desarrollo de interfaz de visualización de perfiles de trabajadoras. | 6 h | Equipo | DONE |
-| US-09 | Ver reseñas | Implementación de sección de reseñas y calificaciones de usuarios. | 4 h | Equipo | DONE |
-| US-14 | Calificar servicio | Desarrollo del componente frontend para registrar calificaciones. | 3 h | Equipo | DONE |
-| US-08 | Contratar servicio | Diseño de formulario frontend para contratación de servicios. | 6 h | Equipo | DONE |
-| US-11 | Método de pago | Implementación visual de selección de métodos de pago. | 4 h | Equipo | DONE |
-| US-13 | Mensajería cliente | Diseño de interfaz de chat/mensajería entre cliente y trabajadora. | 5 h | Equipo | DONE |
-| US-18 | Notificaciones cliente | Implementación visual de panel de notificaciones frontend. | 4 h | Equipo | DONE |
-| US-26 | Gestión de disponibilidad | Desarrollo de interfaz para configuración de disponibilidad de trabajadoras. | 5 h | Equipo | DONE |
 
 ###  Desglose por User Stories
 
@@ -1610,6 +1568,107 @@ Durante el Sprint 1, el equipo trabajó de forma colaborativa en el desarrollo d
 **Conclusión:**
 El equipo logró cumplir con los objetivos del Sprint 1, estableciendo una base sólida del proyecto mediante la implementación de la Landing Page y la documentación necesaria para el avance.
 
+#### 5.2.2 Sprint 2
+
+##### 5.2.2.1.Sprint Planning 2.
+**Sprint Goal:**
+Desarrollar el frontend de la futura web app siguiendo los diseños establecidos en el figma. 
+
+**Duración del Sprint:**
+2 semanas
+
+**Alcance del Sprint:**
+- Implementación del frontend de la webb application
+- Estructura base del proyecto frontend
+- Integración del diseño UX/UI previamente definido
+
+
+| Sprint # | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | Desarrollo del front de la webb app y el modelo de negocio a travez de la implementacion de los bounded context |
+| **Date** | 2026-05-12 |
+| **Time** | 16:00 |
+| **Location** | Server Report |
+| **Prepared by** | Team Leader |
+| **Attendees** | All members |
+| **Sprint Review Summary** | Se implementó con éxito la estructura base del frontend, el diseño responsive y la propuesta de valor, cumpliendo con las 4 User Stories priorizadas. |
+| **Sprint Goal** | Desarrollar una webb app siguiendo una arquitectura de negocio usando los bounded contexts correctos para esta implementacion |
+| **Sprint Velocity** | 100% |
+| **Sum of Story Points** | EP 1-2-3-4-5-6 |
+----
+
+##### 5.2.2.2. Aspect Leaders and Collaborators.
+| Team Member | GitHub Username | web app implementation leader(L) collaborator(C)  |
+| :--- | :--- | :--- |
+| Garcia Cerpa, Braden Raid | BradenGarcia | C |
+| Espino Rossi, Victor Manuel | Vmer140 | C |
+| Vara Velasquez, Oscar Fernando | Varometro159 | C |
+| Choy Robles, Vanessa May Lang | VMLCR | C |
+| Valverde Portuguez, Natalia Ximena | NatValverde15 | L |
+
+---
+##### 5.2.2.3.Sprint Backlog 2.
+
+
+| USER STORY | TÍTULO | DESCRIPCIÓN | ESTIMACIÓN HORAS | ASSIGNED TO | ESTADO |
+|------------|---------|-------------|------------------|-------------|--------|
+| US-01 | Registro de cliente | Implementación de la interfaz frontend para el registro de clientes en la plataforma. | 6 h | Equipo | DONE |
+| US-02 | Inicio de sesión cliente | Desarrollo del formulario de inicio de sesión para clientes. | 5 h | Equipo | DONE |
+| US-20 | Recuperar contraseña cliente | Diseño e implementación de la pantalla de recuperación de contraseña. | 4 h | Equipo | DONE |
+| US-04 | Filtrar por ubicación | Implementación de filtros visuales por ubicación en la búsqueda de trabajadoras. | 5 h | Equipo | DONE |
+| US-06 | Filtrar por habilidades | Desarrollo de filtros frontend por habilidades de trabajadoras. | 4 h | Equipo | DONE |
+| US-07 | Filtrar por disponibilidad | Implementación de filtros por disponibilidad y horarios. | 4 h | Equipo | DONE |
+| US-10 | Ordenar resultados | Implementación de opciones de ordenamiento visual de resultados. | 3 h | Equipo | DONE |
+| US-05 | Ver perfiles | Desarrollo de interfaz de visualización de perfiles de trabajadoras. | 6 h | Equipo | DONE |
+| US-09 | Ver reseñas | Implementación de sección de reseñas y calificaciones de usuarios. | 4 h | Equipo | DONE |
+| US-14 | Calificar servicio | Desarrollo del componente frontend para registrar calificaciones. | 3 h | Equipo | DONE |
+| US-08 | Contratar servicio | Diseño de formulario frontend para contratación de servicios. | 6 h | Equipo | DONE |
+| US-11 | Método de pago | Implementación visual de selección de métodos de pago. | 4 h | Equipo | DONE |
+| US-13 | Mensajería cliente | Diseño de interfaz de chat/mensajería entre cliente y trabajadora. | 5 h | Equipo | DONE |
+| US-18 | Notificaciones cliente | Implementación visual de panel de notificaciones frontend. | 4 h | Equipo | DONE |
+| US-26 | Gestión de disponibilidad | Desarrollo de interfaz para configuración de disponibilidad de trabajadoras. | 5 h | Equipo | DONE |
+
+##### 5.2.2.4.Development Evidence for Sprint Review.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited |
+|------------|--------|-----------|----------------|----------------------|----------|
+|   InCleanHome-frontend         |  feature/Vara      |  aab006a         |  feat(booking): setup booking domain structure and initial components              |                      |      09/05/2026    |
+|   InCleanHome-frontend         | feature/Garcia       |  2281bb4         |      feat: implement Search-and-catalog bounded context          |                      |   11/05/2026       |
+|    InCleanHome-frontend        |feature/Espino        |     a9cee57      |    feat: implement Search-and-catalog bounded context            |                      |    09/05/2026      |
+InCleanHome-frontend        | feature/natalia       |    0c2c1c      |     feat: update files in User-management bounded context(student:Natalia Valverde)           |                      |     12/05/2026     |
+InCleanHome-frontend        | feature/Choy       |   db27b67      | feat: feat payments and shared               |                      | 11/05/2026         |
+##### 5.2.2.5.Execution Evidence for Sprint Review.
+<img src="./assets/sprint2/SPRINT2-1.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/sprint2/SPRINT2-2.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/sprint2/SPRINT2-3.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/sprint2/SPRINT2-4.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/sprint2/SPRINT2-5.png" alt="wireframes web application 1" width="1500">
+
+##### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+En este sprint **no se implementaron servicios backend**, ya que el enfoque estuvo en el desarrollo frontend de la web app.
+
+Sin embargo, se definieron de manera preliminar:
+- Posibles endpoints del sistema
+- Estructura futura de los servicios REST
+
+Esto servirá como base para los siguientes sprints.
+##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+##### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2, el equipo trabajó de forma colaborativa en el desarrollo de la web app y la documentación del proyecto.
+
+**Aspectos positivos:**
+- Trabajo conjunto en el desarrollo de la web app siguiendo el modelo de negocio
+- Organización para completar la documentación requerida
+- Uso de GitHub para control de versiones
+
+**Aspectos a mejorar:**
+- Mejor distribución de tareas
+- Mayor planificación del tiempo
+- Incrementar la frecuencia de commits
+
+**Conclusión:**
+El equipo logró cumplir con los objetivos del Sprint 2, estableciendo un gran avance en el desarrollo de la web app incluyendo el modelo de negocio y siguiendo buenas practicas en la arquitectura del proyecto.
 ## 6. Conclusiones y Recomendaciones
 #### Conclusiones
 - A diferencia de nuestros competidores en el mercado, nuestro proyecto, InCleanHome, se posiciona más con un enfoque de personalización profunda y un sistema de verificación de antecedentes y seguros contra daños, lo cual responde directamente a las necesidades de los segmentos objetivos de nuestro proyecto, que son las trabajadoras del hogar y los clientes que buscan servicios domésticos.
