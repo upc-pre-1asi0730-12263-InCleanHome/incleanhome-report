@@ -1352,7 +1352,32 @@ Desarrollar una Landing Page funcional que comunique la propuesta de valor del p
 | **Sprint Velocity** | 100% |
 | **Sum of Story Points** | 4 US (US-L07, US-L08, US-L09, US-L10) |
 
+#####  Sprint Planning 2
 
+**Sprint Goal:**
+Desarrollar el frontend de la futura web app siguiendo los diseños establecidos en el figma. 
+
+**Duración del Sprint:**
+2 semanas
+
+**Alcance del Sprint:**
+- Implementación del frontend de la webb application
+- Estructura base del proyecto frontend
+- Integración del diseño UX/UI previamente definido
+
+
+| Sprint # | Sprint 2 |
+| :--- | :--- |
+| **Sprint Planning Background** | Desarrollo del front de la webb app y el modelo de negocio a travez de la implementacion de los bounded context |
+| **Date** | 2026-05-12 |
+| **Time** | 16:00 |
+| **Location** | Server Report |
+| **Prepared by** | Team Leader |
+| **Attendees** | All members |
+| **Sprint Review Summary** | Se implementó con éxito la estructura base del frontend, el diseño responsive y la propuesta de valor, cumpliendo con las 4 User Stories priorizadas. |
+| **Sprint Goal** | Desarrollar una webb app siguiendo una arquitectura de negocio usando los bounded contexts correctos para esta implementacion |
+| **Sprint Velocity** | 100% |
+| **Sum of Story Points** | EP 1-2-3-4-5-6 |
 ---
 ##### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -1396,6 +1421,25 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | | Configurar estilos responsive | Equipo | Hecho |
 | | Probar visualización en móviles | Equipo | Hecho |
 ---
+#### 5.2.1.4. Sprint Backlog 2
+
+| USER STORY | TÍTULO | DESCRIPCIÓN | ESTIMACIÓN HORAS | ASSIGNED TO | ESTADO |
+|------------|---------|-------------|------------------|-------------|--------|
+| US-01 | Registro de cliente | Implementación de la interfaz frontend para el registro de clientes en la plataforma. | 6 h | Equipo | DONE |
+| US-02 | Inicio de sesión cliente | Desarrollo del formulario de inicio de sesión para clientes. | 5 h | Equipo | DONE |
+| US-20 | Recuperar contraseña cliente | Diseño e implementación de la pantalla de recuperación de contraseña. | 4 h | Equipo | DONE |
+| US-04 | Filtrar por ubicación | Implementación de filtros visuales por ubicación en la búsqueda de trabajadoras. | 5 h | Equipo | DONE |
+| US-06 | Filtrar por habilidades | Desarrollo de filtros frontend por habilidades de trabajadoras. | 4 h | Equipo | DONE |
+| US-07 | Filtrar por disponibilidad | Implementación de filtros por disponibilidad y horarios. | 4 h | Equipo | DONE |
+| US-10 | Ordenar resultados | Implementación de opciones de ordenamiento visual de resultados. | 3 h | Equipo | DONE |
+| US-05 | Ver perfiles | Desarrollo de interfaz de visualización de perfiles de trabajadoras. | 6 h | Equipo | DONE |
+| US-09 | Ver reseñas | Implementación de sección de reseñas y calificaciones de usuarios. | 4 h | Equipo | DONE |
+| US-14 | Calificar servicio | Desarrollo del componente frontend para registrar calificaciones. | 3 h | Equipo | DONE |
+| US-08 | Contratar servicio | Diseño de formulario frontend para contratación de servicios. | 6 h | Equipo | DONE |
+| US-11 | Método de pago | Implementación visual de selección de métodos de pago. | 4 h | Equipo | DONE |
+| US-13 | Mensajería cliente | Diseño de interfaz de chat/mensajería entre cliente y trabajadora. | 5 h | Equipo | DONE |
+| US-18 | Notificaciones cliente | Implementación visual de panel de notificaciones frontend. | 4 h | Equipo | DONE |
+| US-26 | Gestión de disponibilidad | Desarrollo de interfaz para configuración de disponibilidad de trabajadoras. | 5 h | Equipo | DONE |
 
 ###  Desglose por User Stories
 
@@ -1435,6 +1479,65 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | Probar visualización en móviles | Equipo |
 
 ---
+###  EP-01 – Gestión de usuarios
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-01 – Registro de cliente | Diseño del formulario de registro | Equipo |
+|  | Validaciones frontend | Equipo |
+| US-02 – Inicio de sesión cliente | Implementación del login UI | Equipo |
+|  | Diseño responsive del login | Equipo |
+| US-20 – Recuperar contraseña cliente | Diseño de pantalla recovery | Equipo |
+|  | Inputs y validaciones | Equipo |
+
+---
+
+###  EP-02 – Búsqueda y filtrado
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-04 – Filtrar por ubicación | Crear filtro visual de ubicación | Equipo |
+| US-06 – Filtrar por habilidades | Implementar categorías y habilidades | Equipo |
+| US-07 – Filtrar por disponibilidad | Crear filtros de horarios | Equipo |
+| US-10 – Ordenar resultados | Implementar opciones de ordenamiento | Equipo |
+
+---
+
+###  EP-03 – Perfiles y reseñas
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-05 – Ver perfiles | Diseño de cards de perfiles | Equipo |
+|  | Responsive design | Equipo |
+| US-09 – Ver reseñas | Implementar sección de reseñas | Equipo |
+| US-14 – Calificar servicio | Diseño de componente rating | Equipo |
+
+---
+
+###  EP-04 – Contratación y pagos
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-08 – Contratar servicio | Diseño de formulario contratación | Equipo |
+| US-11 – Método de pago | Diseño visual de pagos | Equipo |
+
+---
+
+###  EP-05 – Comunicación y notificaciones
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-13 – Mensajería cliente | Diseño interfaz de mensajería | Equipo |
+| US-18 – Notificaciones cliente | Implementación panel notificaciones | Equipo |
+
+---
+
+###  EP-06 – Gestión de disponibilidad
+
+| USER STORY | TAREAS | RESPONSABLE |
+|------------|---------|-------------|
+| US-26 – Gestión de disponibilidad | Implementación calendario frontend | Equipo |
+|  | Diseño responsive del calendario | Equipo |
 
 ###  Resumen del Sprint Backlog
 
