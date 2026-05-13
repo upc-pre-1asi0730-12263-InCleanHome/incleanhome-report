@@ -1653,6 +1653,27 @@ Sin embargo, se definieron de manera preliminar:
 
 Esto servirá como base para los siguientes sprints.
 ##### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+<img src="./assets/capturaswebbapp/1.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/2.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/3.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/4.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/5.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/6.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/7.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/8.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/9.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/10.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/11.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/12.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/13.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/14.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/15.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/16.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/17.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/capturaswebbapp/18.png" alt="wireframes web application 1" width="1500">
+
+
 ##### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Durante el Sprint 2, el equipo trabajó de forma colaborativa en el desarrollo de la web app y la documentación del proyecto.
