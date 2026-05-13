@@ -40,7 +40,7 @@
 
 </div>
 
-<div align="center"> Abril 2026 </div>
+<div align="center"> Mayo 2026 </div>
 
 
 ## Registro de Versiones del Informe
@@ -56,6 +56,15 @@
 | 0.5 | 18/04/2026 | Garcia, Braden | Incorporación de Wireframes y Mockups tanto para la Landing Page como para la Web Application. |
 | 0.6 | 20/04/2026 | Vara, Oscar | Adición de Domain-Driven Design (EventStorming), Software Configuration Management y despliegue inicial de la Landing Page. |
 | 0.7 | 22/04/2026 | Equipo Completo | Revisión de consistencia, validación de Student Outcomes y cierre de la documentación para la entrega TB1. |
+| 0.8 | 05/05/2026 | Choy, Vanessa | Configuración base del proyecto en Vue 3 con Vite. Implementación del sistema de internacionalización (i18n) y creación del módulo `Shared`. |
+| 0.9 | 08/05/2026 | Valverde, Natalia; Garcia, Braden | Implementación del módulo `User-Management` (Auth y Persistence) y desarrollo del catálogo de servicios en `Search-and-catalog`. |
+| 1.0 | 10/05/2026 | Vara, Oscar; Espino, Victor | Desarrollo del módulo de `Booking` para gestión de reservas e integración del módulo de `Reviews & Evaluation`. |
+| 1.1 | 12/05/2026 | Choy, Vanessa | Integración del módulo de `Payments`. Configuración de **JSON Server** para persistencia local (`db.json`) y resolución de conflictos de rutas. |
+| 1.2 | 13/05/2026 | Equipo Completo | **Merge final de ramas por módulos**. Pruebas de integración E2E, validación de estilos globales y cierre de documentación para el **Trabajo Parcial**. |
+
+---
+
+
 
 ## Project Report Collaboration Insights  
 
@@ -1176,38 +1185,18 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 #### 4.4.4. Web Applications User Flow Diagrams
 
+<img src="./assets/web application wireflow/1.png" alt="1" width="400">
+<img src="./assets/web application wireflow/2.png" alt="2" width="400">
+<img src="./assets/web application wireflow/3.png" alt="3" width="400">
+<img src="./assets/web application wireflow/4.png" alt="4" width="400">
+<img src="./assets/web application wireflow/5.png" alt="5" width="400">
+<img src="./assets/web application wireflow/6.png" alt="6" width="400">
 
-##### inicio de sesión: 
-
-
-##### registro de usuario:
-
-
-##### recuperación de contraseña
-
-
-##### edición de datos personales
-
-
-##### actualización de documentos
--
-
-##### registro de objetos protegidos
--
-
-##### solicitud de teleconsulta
--
-
-##### historial de reclamos
--
-
-##### prevenciones y recordatorios
--
-
-##### reeclamos en curso
--
 ### 4.5. Web Applications Prototyping
--
+
+<img src="./assets/prototyping/1.png" alt="1" width="400">
+<img src="./assets/prototyping/2.png" alt="2" width="400">
+
 ### 4.6. Domain-Driven Software Architecture
 
 #### 4.6.1. Software Architecture Context Diagrams
