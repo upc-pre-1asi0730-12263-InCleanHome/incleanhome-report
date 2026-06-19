@@ -2019,15 +2019,86 @@ Desarrollar el backend del proyecto y desplegar en producción el frontend y el 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 
 ##### 5.2.3.3.Sprint Backlog 3.
-
+| USER STORY | TÍTULO | DESCRIPCIÓN | ESTIMACIÓN HORAS | ASSIGNED TO | ESTADO |
+|------------|---------|-------------|------------------|-------------|--------|
+| US-01 | Registro de cliente | Implementación del endpoint de registro de clientes (`POST /api/auth/register/client`) en el backend. |  |  | DONE |
+| US-02 | Inicio de sesión cliente | Desarrollo del endpoint de autenticación y generación de token JWT (`POST /api/auth/login`). |  |  | DONE |
+| US-03 | Registro de trabajadora | Implementación del endpoint de registro de trabajadoras del hogar (`POST /api/auth/register/worker`). |  |  | DONE |
+| US-XX | Carga de documentos de trabajadora | Desarrollo del endpoint para la subida de documentos de verificación de trabajadoras (`POST /api/auth/worker/upload-document`). |  |  | DONE |
+| US-04 | Filtrar por ubicación | Implementación del endpoint de búsqueda y filtrado de trabajadoras (`GET /api/workers`) en el bounded context Search and Catalog. |  |  | DONE |
+| US-05 | Ver perfiles | Desarrollo del endpoint de consulta de perfil de trabajadora por id (`GET /api/workers/{id}`). |  |  | DONE |
+| US-26 | Gestión de disponibilidad | Implementación de los endpoints de consulta y actualización de disponibilidad de trabajadoras (`GET` y `PUT /api/workers/{id}/availability`). |  |  | DONE |
+| US-XX | Perfil propio de trabajadora | Desarrollo de los endpoints para que la trabajadora consulte y actualice su propio perfil (`GET` y `PUT /api/workers/me/profile`). |  |  | DONE |
+| US-XX | Estadísticas de trabajadora | Implementación del endpoint de estadísticas del perfil de trabajadora (`GET /api/workers/me/stats`). |  |  | DONE |
+| US-XX | Perfil de cliente | Desarrollo de los endpoints para consultar y actualizar el perfil del cliente (`GET` y `PATCH /api/my-profile`). |  |  | DONE |
+| US-08 | Contratar servicio | Implementación del endpoint de creación de reservas/contratación de servicio (`POST /api/bookings`). |  |  | DONE |
+| US-XX | Listar reservas | Desarrollo del endpoint de listado de reservas del usuario autenticado (`GET /api/bookings`). |  |  | DONE |
+| US-XX | Actualizar estado de reserva | Implementación del endpoint para actualizar el estado de una reserva (`PATCH /api/bookings/{id}/status`). |  |  | DONE |
+| US-11 | Método de pago | Desarrollo de los endpoints de registro, listado, selección de método predeterminado y eliminación de métodos de pago (`GET`, `POST`, `PATCH`, `DELETE /api/payments/methods`). |  |  | DONE |
+| US-13 | Mensajería cliente | Implementación de los endpoints de mensajería: listado de conversaciones, hilo de mensajes y envío de mensajes (`GET /api/messages/conversations`, `GET` y `POST /api/messages/{userId}`). |  |  | DONE |
+| US-14 | Calificar servicio | Desarrollo de los endpoints de creación de reseñas y consulta de reseñas por trabajadora (`POST /api/reviews`, `GET /api/reviews/worker/{id}`). |  |  | DONE |
+| US-XX | Documentación de la API | Configuración e implementación de Swagger/OpenAPI para la documentación interactiva de todos los endpoints del backend. |  |  | DONE |
+| US-XX | Despliegue del backend | Configuración del backend para despliegue en producción (Dockerfile, render.yaml). |  |  |  |
 
 ##### 5.2.3.4.Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited |
+|------------|--------|-----------|----------------|----------------------|----------|
+| InCleanHome-Backend |  |  |  |  |  |
+| InCleanHome-Backend |  |  |  |  |  |
+| InCleanHome-Backend |  |  |  |  |  |
+| InCleanHome-Backend |  |  |  |  |  |
+| InCleanHome-Backend |  |  |  |  |  |
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
-
+Colocar imagenes del la ejecucion del backend(swagger con los endpoonts, dotnet run )
 
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Durante el Sprint 3 se implementó el **backend completo** de la plataforma InCleanHome, estructurado siguiendo una arquitectura por **bounded contexts** (Domain-Driven Design), utilizando ASP.NET Core, Entity Framework Core y PostgreSQL.
 
+Los bounded contexts implementados fueron:
+
+- **IAM (Identity and Access Management):** gestión de autenticación, registro de clientes y trabajadoras, y carga de documentos de verificación.
+- **Profiles:** gestión del perfil del cliente.
+- **SearchAndCatalog:** búsqueda y filtrado de trabajadoras, gestión de perfil y disponibilidad de la trabajadora.
+- **Booking:** creación, listado y actualización del estado de las reservas de servicio.
+- **Payments:** registro y gestión de métodos de pago.
+- **Messaging:** mensajería entre cliente y trabajadora.
+- **ReviewsAndEvaluation:** registro y consulta de reseñas y calificaciones.
+
+**Endpoints documentados (Swagger / OpenAPI):**
+
+<a id="tabla-38"></a>
+**Tabla 38:** *Endpoints REST implementados en el Sprint 3.*
+
+| Bounded Context | Método | Endpoint | Descripción |
+|---|---|---|---|
+| IAM | POST | `/api/auth/login` | Inicio de sesión y generación de token JWT. |
+| IAM | POST | `/api/auth/register/client` | Registro de un nuevo cliente. |
+| IAM | POST | `/api/auth/register/worker` | Registro de una nueva trabajadora. |
+| IAM | POST | `/api/auth/worker/upload-document` | Carga de documentos de verificación de la trabajadora. |
+| Profiles | GET | `/api/my-profile` | Consulta del perfil del cliente autenticado. |
+| Profiles | PATCH | `/api/my-profile` | Actualización del perfil del cliente autenticado. |
+| SearchAndCatalog | GET | `/api/workers` | Búsqueda y filtrado de trabajadoras. |
+| SearchAndCatalog | GET | `/api/workers/{id}` | Consulta del perfil público de una trabajadora. |
+| SearchAndCatalog | GET | `/api/workers/{id}/availability` | Consulta de disponibilidad de una trabajadora. |
+| SearchAndCatalog | PUT | `/api/workers/{id}/availability` | Actualización de disponibilidad de una trabajadora. |
+| SearchAndCatalog | GET | `/api/workers/me/profile` | Consulta del propio perfil de la trabajadora autenticada. |
+| SearchAndCatalog | PUT | `/api/workers/me/profile` | Actualización del propio perfil de la trabajadora autenticada. |
+| SearchAndCatalog | GET | `/api/workers/me/stats` | Consulta de estadísticas de la trabajadora autenticada. |
+| Booking | POST | `/api/bookings` | Creación de una nueva reserva/contratación. |
+| Booking | GET | `/api/bookings` | Listado de reservas del usuario autenticado. |
+| Booking | PATCH | `/api/bookings/{id}/status` | Actualización del estado de una reserva. |
+| Payments | GET | `/api/payments/methods` | Listado de métodos de pago del usuario autenticado. |
+| Payments | POST | `/api/payments/methods` | Registro de un nuevo método de pago. |
+| Payments | PATCH | `/api/payments/methods/{id}/default` | Marcar un método de pago como predeterminado. |
+| Payments | DELETE | `/api/payments/methods/{id}` | Eliminación de un método de pago. |
+| Messaging | GET | `/api/messages/conversations` | Listado de conversaciones del usuario autenticado. |
+| Messaging | GET | `/api/messages/{userId}` | Consulta del hilo de mensajes con un usuario específico. |
+| Messaging | POST | `/api/messages/{userId}` | Envío de un mensaje a un usuario específico. |
+| ReviewsAndEvaluation | POST | `/api/reviews` | Creación de una nueva reseña. |
+| ReviewsAndEvaluation | GET | `/api/reviews/worker/{id}` | Consulta de reseñas de una trabajadora específica. |
+
+La autenticación de los endpoints protegidos se realiza mediante **JWT (JSON Web Tokens)**, enviando el token en la cabecera `Authorization: Bearer <token>`. El hashing de contraseñas se implementó utilizando **BCrypt**.
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
 **Vista cliente:**
@@ -2054,7 +2125,16 @@ Desarrollar el backend del proyecto y desplegar en producción el frontend y el 
 
 
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
- 
+ Durante el Sprint 3, el equipo se enfocó en el desarrollo del backend de la plataforma, implementando la arquitectura por bounded contexts y exponiendo los servicios REST necesarios para dar soporte al frontend previamente desarrollado.
+
+**Aspectos positivos:**
+- Implementación de una arquitectura backend organizada por bounded contexts siguiendo buenas prácticas de DDD
+- Documentación de los endpoints mediante Swagger/OpenAPI
+- Integración de autenticación y autorización mediante JWT
+
+
+**Conclusión:**
+El equipo logró cumplir con los objetivos del Sprint 3, completando la implementación del backend de la plataforma InCleanHome y dejando el sistema listo para su despliegue en producción.
 
 ## 6. Conclusiones y Recomendaciones
 #### Conclusiones
