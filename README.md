@@ -1086,6 +1086,10 @@ Link: https://trello.com/invite/b/69e53cf162d5cd735ac20f75/ATTI28be5c17f5cd08eee
 InCleanHome establece un sistema de diseño coherente que refleja los valores centrales de la plataforma: confianza, limpieza, seguridad y accesibilidad. Las decisiones visuales buscan transmitir profesionalismo y calidez simultáneamente, generando confianza en los usuarios al momento de contratar personal doméstico.
 
 **Branding**
+
+<a id="imagen-22"></a>
+**Imagen 22:** *Logo de InCleanHome*
+
 <p align="center">
     <img src="./assets/logo/logo-InCleanHome.png" alt="InCleanHome-logo" width="150px" height="150px"/>
 </p>
@@ -1094,6 +1098,9 @@ InCleanHome establece un sistema de diseño coherente que refleja los valores ce
 El nombre "InCleanHome" comunica de manera directa el propósito del producto: conectar hogares con personal de limpieza de confianza. El logotipo es una casa junto al nombre en tipografía Nunito Black, combinando cercanía y modernidad. La identidad visual apuesta por un estilo limpio y contemporáneo, evitando la sobrecarga visual.
 
 **Paleta de colores**
+
+<a id="imagen-23"></a>
+**Imagen 23:** *Paleta de Colores de InCleanHome*
 
 <p align="center">
     <img src="./assets/color-palette//paleta-colores.png" alt="Paleta de colores" width="390px" height="390px"/>
@@ -1299,37 +1306,112 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 
 #### 4.3.1. Landing Page Wireframe
+
+<a id="imagen-24"></a>
+**Imagen 24:** *Wireframe 1 de LandingPage*
+
 {<img src="./assets/capturas landing/wireframe1.png" alt="wireframe1" width="550"/>}
+
+<a id="imagen-25"></a>
+**Imagen 25:** *Wireframe 2 de LandingPage*
+
 {<img src="./assets/capturas landing/wireframe2.png" alt="wireframe2" width="550"/>}
+
+<a id="imagen-26"></a>
+**Imagen 26:** *Wireframe 3 de LandingPage*
+
 {<img src="./assets/capturas landing/wireframe3.png" alt="wireframe3" width="550"/>}
+
+<a id="imagen-27"></a>
+**Imagen 27:** *Wireframe 4 de LandingPage*
+
 {<img src="./assets/capturas landing/wireframe4.png" alt="wireframe4" width="550"/>}
 
 #### 4.3.2. Landing Page Mock-up
+
+<a id="imagen-28"></a>
+**Imagen 28:** *Mock-up 1 de LandingPage*
+
 {<img src="./assets/capturas landing/mockup1.png" alt="mockup1" width="550"/>}
+
+<a id="imagen-29"></a>
+**Imagen 29:** *Mock-up 2 de LandingPage*
+
 {<img src="./assets/capturas landing/mockup2.png" alt="mockup2" width="550"/>}
+
+<a id="imagen-30"></a>
+**Imagen 30:** *Mock-up 3 de LandingPage*
+
 {<img src="./assets/capturas landing/mockup3.png" alt="mockup3" width="550"/>}
+
+<a id="imagen-31"></a>
+**Imagen 31:** *Mock-up 4 de LandingPage*
+
 {<img src="./assets/capturas landing/mockup4.png" alt="mockup4" width="550"/>} 
 
 
 ### 4.4. Web Applications UX/UI Design
 
 #### 4.4.1. Web Applications Wireframes
+
+<a id="imagen-32"></a>
+**Imagen 32:** *Wireframe 1 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw1.jpg" alt="wireframes web application 1" width="400">
+  
+<a id="imagen-33"></a>
+**Imagen 33:** *Wireframe 2 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw2.jpg" alt="wireframes web application 2" width="400">
+  
+<a id="imagen-34"></a>
+**Imagen 34:** *Wireframe 3 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw3.jpg" alt="wireframes web application 3" width="400">
+
+<a id="imagen-35"></a>
+**Imagen 35:** *Wireframe 4 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw4.jpg" alt="wireframes web application 4" width="400">
+
+<a id="imagen-36"></a>
+**Imagen 36:** *Wireframe 5 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw5.jpg" alt="wireframes web application 5" width="400">
+  
+<a id="imagen-37"></a>
+**Imagen 37:** *Wireframe 6 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw6.jpg" alt="wireframes web application 6" width="400">
+  
+<a id="imagen-38"></a>
+**Imagen 38:** *Wireframe 7 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw7.jpg" alt="wireframes web application 7" width="400">
+
+<a id="imagen-39"></a>
+**Imagen 39:** *Wireframe 8 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw8.jpg" alt="wireframes web application 8" width="400">
+  
+<a id="imagen-40"></a>
+**Imagen 40:** *Wireframe 9 de Web Application*
+
   <img src="./assets/web application/wireframes web application/waw9.jpg" alt="wireframes web application 9" width="400">
 
 #### 4.4.2. Web Applications Wireflow Diagrams
 
 ##### inicio de sesión: 
+
+<a id="imagen-41"></a>
+**Imagen 41:** *Wireflow Diagram (Inicio de Sesión)*
+
   <img src="./assets/web application/wireflows/w1.jpg" alt="wireflow 1" width="400">
 
 ##### ver perfil:
+  <a id="imagen-42"></a>
+**Imagen 42:** *Wireflow Diagram (Ver Perfil)*
+
   <img src="./assets/web application/wireflows/w2.jpg" alt="wireflow 2" width="400">
 
 ##### abrir menu:
