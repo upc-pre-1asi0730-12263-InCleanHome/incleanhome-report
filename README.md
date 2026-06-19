@@ -437,6 +437,9 @@ Se incremente en un 25% el número de pagos realizados dentro de la plataforma y
 
 ##### 1.2.2.4. Lean UX Canvas
 
+<a id="imagen-1"></a>
+**Imagen 1:** *Lean UX Canvas*
+
 <p align="center">
   <img src="./assets/leanuxcanvas/leanuxcanvas.png" alt="Lean UX Canva" width="550">
 </p>
@@ -556,6 +559,8 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 
 #### Entrevista 1
 
+<a id="imagen-2"></a>
+**Imagen 2:** *Evidencia de Primera Entrevista en Segmento Cliente*
 
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista1.jpg" alt="entrevista1" width="400">
@@ -579,6 +584,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 
 #### Entrevista 2
 
+<a id="imagen-3"></a>
+**Imagen 3:** *Evidencia de Segunda Entrevista en Segmento Cliente*
+
 <p align="center">
   <img src="./assets/entrevistas/videos/Entrevista5.png" alt="entrevista2" width="400">
 </p>
@@ -599,6 +607,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 
 #### Entrevista 3
 
+<a id="imagen-4"></a>
+**Imagen 4:** *Evidencia de Tercera Entrevista en Segmento Cliente*
+
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista3.jpg" alt="entrevista3" width="400">
 </p>
@@ -617,6 +628,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 - Expectativas: Se centra en la importancia de las reseñas del personal y en contar con una plataforma funcional para agilizar el proceso.
 
 #### Entrevista 4
+
+<a id="imagen-5"></a>
+**Imagen 5:** *Evidencia de Primera Entrevista en Segmento Trabajador del hogar*
 
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista4.jpg" alt="entrevista4" width="400">
@@ -638,6 +652,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 
 #### Entrevista 5
 
+<a id="imagen-6"></a>
+**Imagen 6:** *Evidencia de Segunda Entrevista en Segmento Trabajador del hogar*
+
 <p align="center">
   <img src="./assets/entrevistas/videos/Entrevista2.png" alt="entrevista5" width="400">
 </p>
@@ -657,6 +674,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 - Expectativas: Busca una herramienta que le permita organizar sus horarios y contar con valoraciones (reviews) para atraer clientes más fácilmente.
 
 #### Entrevista 6
+
+<a id="imagen-7"></a>
+**Imagen 7:** *Evidencia de Tercera Entrevista en Segmento Trabajador del hogar*
 
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista6.jpg" alt="entrevista6" width="400">
@@ -692,26 +712,46 @@ Las entrevistas con las trabajadoras revelan que su principal desafío es la ine
 En conclusión, para que la aplicación sea exitosa, debe funcionar como una herramienta de empoderamiento y protección laboral. Los hallazgos sugieren que las funcionalidades críticas deben incluir un sistema de comunicación directa para negociar términos y precios claramente , un calendario integrado para organizar servicios y un perfil profesional donde se valore su experiencia mediante reseñas. La plataforma tiene el potencial de profesionalizar el sector al reducir la brecha de desconfianza y facilitar que la trabajadora no tenga que "recomendarse a sí misma" constantemente, sino que su trabajo hable por ella a través del sistema.
 
 1. Frecuencia de uso vs disponibilidad laboral:
+
+<a id="imagen-8"></a>
+**Imagen 8:** *Frecuencia de uso vs disponibilidad laboral*
+
 <p align="center">
   <img src="./assets/entrevistas/estadisticas/frecuencia.png" alt="Frecuencia de uso vs disponibilidad laboral" width="550">
 </p>
 
 2. Factores de confianza (clientes vs trabajadoras)
+
+<a id="imagen-9"></a>
+**Imagen 9:** *Factores de confianza*
+
 <p align="center">
   <img src="./assets/entrevistas/estadisticas/confianza.png" alt="Factores de confianza" width="550">
 </p>
 
 3. Uso y aceptación de plataformas digitales
+
+<a id="imagen-10"></a>
+**Imagen 10:** *Uso y aceptación de plataformas*
+
 <p align="center">
   <img src="./assets/entrevistas/estadisticas/aceptacion.png" alt="Uso y aceptación de plataformas" width="550">
 </p>
 
 4. Principales dificultades (oferta vs demanda)
+
+<a id="imagen-11"></a>
+**Imagen 11:** *Principales dificultades*
+
 <p align="center">
   <img src="./assets/entrevistas/estadisticas/dificultades.png" alt="Principales dificultades" width="550">
 </p>
 
 5. Funcionalidades clave esperadas
+
+<a id="imagen-12"></a>
+**Imagen 12:** *Funcionalidades clave esperadas*
+
 <p align="center">
   <img src="./assets/entrevistas/estadisticas/funcionalidades.png" alt="Funcionalidades clave esperadas" width="550">
 </p>
@@ -724,11 +764,17 @@ La presente sección expone las fichas de User Persona, herramientas fundamental
 
 *Segmento 1: El Cliente (Segmento Demanda)*
 
+<a id="imagen-13"></a>
+**Imagen 13:** *User Persona de Segmento 1 (Clientes)*
+
 <p align="center">
   <img src="./assets/needfinding/userpersonas/segmento1cliente.jpg" alt="Segmento 1: El Cliente" width="550">
 </p>
 
 *Segmento 2: Trabajadora del Hogar (Segmento Oferta)*
+
+<a id="imagen-14"></a>
+**Imagen 14:** *User Persona de Segmento 2 (Trabajadora del hogar)*
 
 <p align="center">
   <img src="./assets/needfinding/userpersonas/segmento2trabajadora.jpg" alt="Segmento 2: Trabajadora del Hogar" width="550">
@@ -772,11 +818,17 @@ En conjunto, el análisis evidencia una oportunidad para soluciones que reduzcan
 
 *Segmento 1: El Cliente (Segmento Demanda)*
 
+<a id="imagen-15"></a>
+**Imagen 15:** *User Journey Mapping de Segmento 1 (Clientes)*
+
 <p align="center">
   <img src="./assets/needfinding/journeymapping/segmento1cliente.png" alt="Segmento 1: El Cliente" width="550">
 </p>
 
 *Segmento 2: Trabajadora del Hogar (Segmento Oferta)*
+
+<a id="imagen-16"></a>
+**Imagen 16:** *User Journey Mapping de Segmento 2 (Trabajadora del Hogar)*
 
 <p align="center">
   <img src="./assets/needfinding/journeymapping/segmento2trabajadora.png" alt="Segmento 2: Trabajadora del Hogar" width="550">
@@ -788,17 +840,26 @@ En conjunto, el análisis evidencia una oportunidad para soluciones que reduzcan
 
 *Segmento 1: El Cliente (Segmento Demanda)*
 
+<a id="imagen-17"></a>
+**Imagen 17:** *Empathy Mapping de Segmento 1 (Clientes)*
+
 <p align="center">
   <img src="./assets/needfinding/empathymapping/segmento1cliente.jpg" alt="Segmento 1: El Cliente" width="550">
 </p>
 
 *Segmento 2: Trabajadora del Hogar (Segmento Oferta)*
 
+<a id="imagen-18"></a>
+**Imagen 18:** *Empathy Mapping de Segmento 2 (Trabajadora del hogar)*
+
 <p align="center">
   <img src="./assets/needfinding/empathymapping/segmento2trabajadora.jpg" alt="Segmento 2: Trabajadora del Hogar" width="550">
 </p>
 
 ### 2.4. Big Picture EventStorming 
+
+<a id="imagen-19"></a>
+**Imagen 19:** *Big Picture EventStorming*
 
 <p align="center">
   <img src="./assets/eventstorming/eventstorming.jpg" alt="EventStorming" width="550">
@@ -935,6 +996,8 @@ Asistencia brindada a los usuarios para resolver dudas, problemas o inconvenient
 ### 3.2. Impact Mapping
 A continuación se visualiza el **Impact Map** del proyecto, donde se muestra la relación entre el *Business Goal* definido, los **User Personas** identificados, los **Impactos** esperados en su comportamiento, los **Deliverables** que como negocio digital podemos ofrecer y las **User Stories** asociadas que permitirán implementar las funcionalidades necesarias en la aplicación web y la landing page. Este mapa busca asegurar la alineación entre los objetivos estratégicos y el desarrollo de la solución digital.
 
+<a id="imagen-20"></a>
+**Imagen 20:** *Impact Mapping*
 
 <p align="center">
   <img src="./assets/impactmapping/impactmapping.png" alt="Impact Mapping" width="700">
@@ -1003,6 +1066,8 @@ Link: https://drive.google.com/file/d/1BR5BatpnbY6CP7mPb5e2RJWy8tfnCuxR/view?usp
 | 51 | US-L09 | Consumo de testimonios | Como visitante, deseo leer reseñas de otros clientes verificados para evaluar la confiabilidad del servicio antes de tomar una decisión de registro o compra. | 2 |
 | 52 | US-L10 | Adaptabilidad móvil (Menú Hamburguesa) | Como usuario de dispositivos móviles, deseo acceder a un menú colapsable interactivo para poder navegar por las distintas secciones de la página de forma ergonómica. | 3 |
 
+<a id="imagen-21"></a>
+**Imagen 21:** *Product Backlog en Trello*
 
 <p align="center">
   <img src="./assets/productbacklog/productbacklog.png" alt="Product Backlog" width="700">
