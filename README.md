@@ -2044,13 +2044,16 @@ Desarrollar el backend del proyecto y desplegar en producción el frontend y el 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited |
 |------------|--------|-----------|----------------|----------------------|----------|
-| InCleanHome-Backend |  |  |  |  |  |
-| InCleanHome-Backend |  |  |  |  |  |
-| InCleanHome-Backend |  |  |  |  |  |
-| InCleanHome-Backend |  |  |  |  |  |
-| InCleanHome-Backend |  |  |  |  |  |
+| InCleanHome-Backend | feature |  |  |  |  |
+| InCleanHome-Backend | feature |  |  |  |  |
+| InCleanHome-Backend | feature |  |  |  |  |
+| InCleanHome-Backend | feature |  |  |  |  |
+| InCleanHome-Backend | feature |  |  |  |  |
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
-Colocar imagenes del la ejecucion del backend(swagger con los endpoonts, dotnet run )
+<img src="./assets/backend/endpoints.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/backend/pruebas.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/backend/render.png" alt="wireframes web application 1" width="1500">
+<img src="./assets/backend/vercel.png" alt="wireframes web application 1" width="1500">
 
 ##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 Durante el Sprint 3 se implementó el **backend completo** de la plataforma InCleanHome, estructurado siguiendo una arquitectura por **bounded contexts** (Domain-Driven Design), utilizando ASP.NET Core, Entity Framework Core y PostgreSQL.
