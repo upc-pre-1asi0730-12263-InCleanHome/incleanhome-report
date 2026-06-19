@@ -115,10 +115,14 @@ Finalmente, el equipo trabajó de forma conjunta en el **Despliegue General**, l
 #### **Evidencias de Colaboración (GitHub Insights - TB2)**
 
 **Insights - Contributors**
-AGREGAR IMAGEN
+<p align="center">
+  <img src="./Insights.png" alt="GitHub Network Graph" width="600">
+</p>
 
 **Network Graph**
-AGREGAR IMAGEN
+<p align="center">
+  <img src="./Network.png" alt="GitHub Network Graph" width="600">
+</p>
 
 El repositorio del proyecto se encuentra disponible en el siguiente enlace:
 [https://github.com/upc-pre-1asi0730-12263-InCleanHome](https://github.com/upc-pre-1asi0730-12263-InCleanHome)
