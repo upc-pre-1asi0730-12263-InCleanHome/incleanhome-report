@@ -47,6 +47,7 @@
 
 ### Registro de Versiones del Informe
 
+<a id="tabla-1"></a>
 **Tabla 1:** *Registro histórico de versiones del documento.*
 
 | Versión | Fecha | Autor(es) | Descripción de modificación |
@@ -208,7 +209,42 @@ El repositorio del proyecto se encuentra disponible en el siguiente enlace:
   - [7. Bibliografía](#bibliografia)
   - [8. Anexos](#anexos)
 
+## Índice de Tablas
 
+- [Tabla 1: Registro histórico de versiones del documento](#tabla-1)
+- [Tabla 2: Sustento de acciones y conclusiones para el Student Outcome 5](#tabla-2)
+- [Tabla 3: Matriz de análisis competitivo: InCleanHome frente a sus principales competidores](#tabla-3)
+- [Tabla 4: Ficha técnica de la Entrevista 1 (Eduardo Chacarías)](#tabla-4)
+- [Tabla 5: Ficha técnica de la Entrevista 2 (Elvira Vara Velásquez)](#tabla-5)
+- [Tabla 6: Ficha técnica de la Entrevista 3 (Gianella Hermoza)](#tabla-6)
+- [Tabla 7: Ficha técnica de la Entrevista 4 (Lupe D.)](#tabla-7)
+- [Tabla 8: Ficha técnica de la Entrevista 5 (Rosa Chavez)](#tabla-8)
+- [Tabla 9: Ficha técnica de la Entrevista 6 (Romina Hermoza)](#tabla-9)
+- [Tabla 10: Matriz de tareas de usuario (User Task Matrix) comparativa entre Clientes y Trabajadoras](#tabla-10)
+- [Tabla 11: Especificación detallada de Epics y User Stories con criterios de aceptación](#tabla-11)
+- [Tabla 12: Product Backlog priorizado con estimación de Story Points](#tabla-12)
+- [Tabla 13: Tokens de diseño y valores hexadecimales de la paleta cromática](#tabla-13)
+- [Tabla 14: Configuración de Breakpoints para el diseño responsivo](#tabla-14)
+- [Tabla 15: Estructura del sistema de etiquetado (Labeling System)](#tabla-15)
+- [Tabla 16: Configuración de filtros del sistema de búsqueda principal](#tabla-16)
+- [Tabla 17: Resumen ejecutivo del Sprint Planning 1](#tabla-17)
+- [Tabla 18: Asignación de roles y responsabilidades en el repositorio para el Sprint 1](#tabla-18)
+- [Tabla 19: Sprint Backlog detallado para el Sprint 1](#tabla-19)
+- [Tabla 20: Desglose de tareas técnicas: US-L08](#tabla-20)
+- [Tabla 21: Desglose de tareas técnicas: US-L09](#tabla-21)
+- [Tabla 22: Desglose de tareas técnicas: US-L07](#tabla-22)
+- [Tabla 23: Desglose de tareas técnicas: US-L10](#tabla-23)
+- [Tabla 24: Desglose de tareas técnicas: EP-01 (Gestión de usuarios)](#tabla-24)
+- [Tabla 25: Desglose de tareas técnicas: EP-02 (Búsqueda y filtrado)](#tabla-25)
+- [Tabla 26: Desglose de tareas técnicas: EP-03 (Perfiles y reseñas)](#tabla-26)
+- [Tabla 27: Desglose de tareas técnicas: EP-04 (Contratación y pagos)](#tabla-27)
+- [Tabla 28: Desglose de tareas técnicas: EP-05 (Comunicación y notificaciones)](#tabla-28)
+- [Tabla 29: Desglose de tareas técnicas: EP-06 (Gestión de disponibilidad)](#tabla-29)
+- [Tabla 30: Estado final de las User Stories del Sprint 1](#tabla-30)
+- [Tabla 31: Resumen ejecutivo del Sprint Planning 2](#tabla-31)
+- [Tabla 32: Asignación de roles y responsabilidades en el repositorio para el Sprint 2](#tabla-32)
+- [Tabla 33: Sprint Backlog detallado para el Sprint 2](#tabla-33)
+- [Tabla 34: Registro de commits y evidencia de integración continua (CI) en GitHub](#tabla-34)
 
 
 **ABET – EAC - Student Outcome 5**
@@ -220,6 +256,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
+
+<a id="tabla-2"></a>
+**Tabla 2:** *Sustento de acciones y conclusiones para el Student Outcome 5.*
+
 |---------------------|-----------------------------|--------------|
 | **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Choy Robles, Vanessa May Lang**<br>**TB1:** Lideró la transición del análisis de entrevistas hacia la especificación técnica de requerimientos, asegurando que el Product Backlog y las User Stories reflejaran fielmente las necesidades detectadas en el Needfinding.<br>**TP1:** Lideró la estandarización de la arquitectura frontend mediante la creación del módulo Shared e implementó el sistema de internacionalización (i18n) para asegurar la escalabilidad del proyecto. Además, coordinó la integración de los flujos de Payments con el resto de módulos.<br>**TB2:** Lideró la transición arquitectónica hacia el backend real, asumiendo la dirección, diseño y desarrollo de los Bounded Contexts críticos de **IAM** y **Profiles**.<br><br>**Espino Rossi, Victor Manuel**<br>**TB1:** Co-lideró las sesiones de diseño de guías de estilos y la definición inicial de la arquitectura de información para sentar las bases visuales del reporte.<br>**TP1:** Se encargó de la especificación y desarrollo del módulo Reviews & Evaluation, definiendo las métricas de feedback necesarias para el sistema de confianza de la plataforma.<br>**TB2:** Asumió el coliderazgo técnico en la implementación del backend, desarrollando de manera íntegra los Bounded Contexts de **Payments** y **ReviewsAndEvaluation**.<br><br>**Garcia Cerpa, Braden Raid**<br>**TB1:** Dirigió el diseño de wireframes y maquetación de Mockups tanto para la Landing Page como para la aplicación web principal.<br>**TP1:** Dirigió el desarrollo técnico del módulo Search-and-catalog, asegurando que los criterios de filtrado y búsqueda de profesionales fueran coherentes con los requerimientos funcionales del negocio.<br>**TB2:** Lideró la reestructuración del flujo transaccional principal de la plataforma mediante el desarrollo del Bounded Context de **Booking** para la gestión de reservas.<br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1:** Dirigió la fase inicial de alineación estratégica, definiendo la misión, visión y el Lean UX Canvas, proporcionando el marco conceptual necesario para que el resto del equipo desarrollara las especificaciones técnicas.<br>**TP1:** Lideró el diseño e implementación del módulo User-Management, definiendo las entidades de usuario y la lógica de autenticación que sirve de base para el control de acceso en todos los demás módulos.<br>**TB2:** Guió el desarrollo de la capa de comunicación síncrona/asíncrona de la aplicación a través de la codificación y despliegue del Bounded Context de **Messaging**.<br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1:** Lideró la gestión de la configuración de software, el modelado inicial a través de EventStorming y el despliegue de la Landing Page del proyecto.<br>**TP1:** Lideró la lógica del módulo Booking, estableciendo los flujos de reserva y estados del servicio, garantizando la trazabilidad entre el cliente y la trabajadora.<br>**TB2:** Comandó el diseño del catálogo unificado de servicios mediante la programación del Bounded Context de **SearchAndCatalog** y supervisó la integración del despliegue general en la nube. | El equipo consolidó un liderazgo colaborativo de ingeniería basado en la descentralización por componentes transaccionales. Al evolucionar hacia una arquitectura basada estrictamente en **Bounded Contexts**, la asignación de responsables individuales por contexto no solo aceleró el desarrollo independiente del backend, sino que facilitó una integración cohesiva con la edición de interfaces del frontend, asegurando un producto robusto y escalable para la entrega final de la TB2. |
 | **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | **Choy Robles, Vanessa May Lang**<br>**TB1:** Estableció hitos críticos para la entrega de los Capítulos II y III, coordinando con los integrantes la validación del Big Picture EventStorming y el Impact Mapping para garantizar un diseño de solución coherente.<br>**TP1:** Estableció la configuración base de Vite y los estándares de código en el repositorio compartido. Planificó la integración del sistema de pagos asegurando que cumpliera con los hitos de funcionalidad del Trabajo Parcial.<br>**TB2:** Planificó el cronograma de refactorización para la Web Application en Vue 3 y coordinó la integración de los servicios de IAM y perfiles con los componentes compartidos del frontend.<br><br>**Espino Rossi, Victor Manuel**<br>**TB1:** Gestionó de manera inclusiva el cumplimiento de metas asociadas al diseño técnico orientado a objetos, promoviendo el debate abierto de diagramas de clases.<br>**TP1:** Aportó al entorno colaborativo mediante la documentación y el testeo de los componentes de reseña, asegurando la calidad de los datos presentados en el perfil de la trabajadora.<br>**TB2:** Estableció y cumplió las metas de persistencia para las transacciones de pago e historial de evaluaciones, integrando con éxito su base de datos relacional al flujo del negocio.<br><br>**Garcia Cerpa, Braden Raid**<br>**TB1:** Fomentó la colaboración técnica mediante la sincronización continua en reuniones virtuales de desarrollo para la consistencia de las interfaces de usuario.<br>**TP1:** Cumplió con los objetivos de visualización del catálogo, participando activamente en la resolución de conflictos de combinación (merge) de ramas en GitHub.<br>**TB2:** Modificó y adaptó los componentes visuales del frontend en Vue 3 para vincularlos con la lógica de negocio real del backend de reservas (`Booking`).<br><br>**Valverde Portuguez, Natalia Ximena**<br>**TB1:** Planificó las tareas de investigación de antecedentes y segmentación de objetivos (Capítulo I), facilitando un entorno inclusivo al integrar los perfiles de todos los miembros y definir el problema central de manera compartida.<br>**TP1:** Planificó las tareas de gestión de perfiles, integrando validaciones que permiten un entorno inclusivo para distintos roles de usuario (cliente y trabajadora).<br>**TB2:** Cumplió con las metas del sprint programando los endpoints del servicio de mensajería y participando activamente en las pruebas cruzadas (E2E) de integración de API.<br><br>**Vara Velásquez, Oscar Fernando**<br>**TB1:** Aseguró un ambiente de alta responsabilidad mediante el seguimiento riguroso de los plazos de entrega de artefactos arquitectónicos en GitHub.<br>**TP1:** Ejecutó la planificación de las tareas relacionadas con el flujo de reservaciones, cumpliendo con los plazos de entrega del sprint correspondientes al Trabajo Parcial.<br>**TB2:** Planificó, automatizó y ejecutó el **Despliegue General** de la solución en la nube, garantizando la correcta interconexión operativa entre el Frontend, el Backend distribuido y la Base de Datos de producción. | El éxito en el cumplimiento de los objetivos de la TB2 se fundamentó en una cultura de desarrollo ágil y un flujo de CI/CD ordenado. El equipo demostró adaptabilidad al planificar la eliminación total de la persistencia simulada e instaurar entornos reales en la nube. La inclusión se vio reflejada en la resolución conjunta de conflictos en Git y en una validación integral que permitió desplegar de forma armonizada el frontend, backend y base de datos. |
@@ -448,6 +488,8 @@ De acuerdo con el Ministerio de Trabajo y Promoción del Empleo, en el Perú exi
 
 #### 2.1.1. Análisis competitivo
 
+<a id="tabla-3"></a>
+**Tabla 3:** *Matriz de análisis competitivo: InCleanHome frente a sus principales competidores.*
 
 | **Competitive Analysis Landscape** |  |  |  |  |  |
 |-------------------------|--|--|--|--|--|
@@ -516,6 +558,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
   <img src="./assets/entrevistas/videos/entrevista1.jpg" alt="entrevista1" width="400">
 </p>
 
+<a id="tabla-4"></a>
+**Tabla 4:** *Ficha técnica de la Entrevista 1 (Eduardo Chacarías).*
+
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | Braden G.                                                     |
@@ -535,6 +580,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
   <img src="./assets/entrevistas/videos/Entrevista5.png" alt="entrevista2" width="400">
 </p>
 
+<a id="tabla-5"></a>
+**Tabla 5:** *Ficha técnica de la Entrevista 2 (Elvira Vara Velásquez).*
+
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | - Oscar Fernando Vara Velasquez                                                     |
@@ -552,6 +600,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
   <img src="./assets/entrevistas/videos/entrevista3.jpg" alt="entrevista3" width="400">
 </p>
 
+<a id="tabla-6"></a>
+**Tabla 6:** *Ficha técnica de la Entrevista 3 (Gianella Hermoza).*
+
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    |- Victor Espino Rossi                                                     |
@@ -567,6 +618,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista4.jpg" alt="entrevista4" width="400">
 </p>
+
+<a id="tabla-7"></a>
+**Tabla 7:** *Ficha técnica de la Entrevista 4 (Lupe D.).*
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
@@ -585,6 +639,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
   <img src="./assets/entrevistas/videos/Entrevista2.png" alt="entrevista5" width="400">
 </p>
 
+<a id="tabla-8"></a>
+**Tabla 8:** *Ficha técnica de la Entrevista 5 (Rosa Chavez).*
+
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Entrevistador**    | - Oscar Fernando Vara Velasquez                                                   |
@@ -601,6 +658,9 @@ Asimismo, InCleanHome aprovechará el crecimiento del uso de plataformas digital
 <p align="center">
   <img src="./assets/entrevistas/videos/entrevista6.jpg" alt="entrevista6" width="400">
 </p>
+
+<a id="tabla-9"></a>
+**Tabla 9:** *Ficha técnica de la Entrevista 6 (Romina Hermoza).*
 
 | **Detalle**          | **Información**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
@@ -678,6 +738,9 @@ La presente sección expone las fichas de User Persona, herramientas fundamental
 El siguiente User Task Matrix presenta las principales tareas que realizan los dos segmentos de usuarios identificados. Para este proyecto, consideramos dos segmentos principales: los Clientes 
 (quienes demandan los servicios) y las Trabajadoras del hogar (quienes ofrecen los 
 servicios). Se identifican actividades clave para cada grupo, evaluadas según su frecuencia e importancia, considerando su experiencia actual sin el uso de la solución propuesta.
+
+<a id="tabla-10"></a>
+**Tabla 10:** *Matriz de tareas de usuario (User Task Matrix) comparativa entre Clientes y Trabajadoras.*
 
 | **Tareas (Tasks)**                     | **Clientes** |  | **Trabajadoras** |  |
 | -------------------------------------- | ------------------------- | -------------------------- | ----------------------------- | ------------------------------ |
@@ -810,6 +873,8 @@ Asistencia brindada a los usuarios para resolver dudas, problemas o inconvenient
 
 ### 3.1. User Stories
 
+<a id="tabla-11"></a>
+**Tabla 11:** *Especificación detallada de Epics y User Stories con criterios de aceptación.*
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |----------------|--------|------------|--------------------------|----------------------------|
@@ -876,6 +941,9 @@ Link: https://drive.google.com/file/d/1BR5BatpnbY6CP7mPb5e2RJWy8tfnCuxR/view?usp
 
 
 ### 3.3. Product Backlog
+
+<a id="tabla-12"></a>
+**Tabla 12:** *Product Backlog priorizado con estimación de Story Points.*
 
 | # Orden | User Story ID | Título | Descripción | Story Points |
 |--------|--------------|--------|------------|--------------|
@@ -963,6 +1031,9 @@ El nombre "InCleanHome" comunica de manera directa el propósito del producto: c
     <img src="./assets/color-palette//paleta-colores.png" alt="Paleta de colores" width="390px" height="390px"/>
 </p>
 
+<a id="tabla-13"></a>
+**Tabla 13:** *Tokens de diseño y valores hexadecimales de la paleta cromática.*
+
 | Token          | Valor HEX | Uso principal                                      |
 |----------------|-----------|----------------------------------------------------|
 | `--green`      | `#00b272` | Color primario de marca, botones CTA, iconos       |
@@ -1036,6 +1107,9 @@ Los elementos con `[data-animate]` inician con `opacity: 0` y `translateY(24px)`
 
 **Responsive Breakpoints**
 
+<a id="tabla-14"></a>
+**Tabla 14:** *Configuración de Breakpoints para el diseño responsivo.*
+
 | Breakpoint | Cambios principales                                                    |
 |------------|------------------------------------------------------------------------|
 | ≤ 1024px   | Footer de 4 columnas pasa a 2 columnas                                 |
@@ -1070,6 +1144,9 @@ El CTA principal ("Buscar ahora") dirige a familias al buscador. El CTA secundar
 
 
 Las etiquetas de InCleanHome siguen el principio de mínima cantidad de palabras con máxima claridad:
+
+<a id="tabla-15"></a>
+**Tabla 15:** *Estructura del sistema de etiquetado (Labeling System).*
 
 | Etiqueta               | Contexto de uso                         | Significado para el usuario                     |
 |------------------------|-----------------------------------------|-------------------------------------------------|
@@ -1113,6 +1190,9 @@ InCleanHome proporciona un sistema de búsqueda estructurado que guía al usuari
 **Búsqueda filtrada (sección Search del Landing Page):**
 
 El formulario de búsqueda ofrece los siguientes filtros combinables:
+
+<a id="tabla-16"></a>
+**Tabla 16:** *Configuración de filtros del sistema de búsqueda principal.*
 
 | Filtro              | Tipo de control | Opciones disponibles                                          |
 |---------------------|-----------------|---------------------------------------------------------------|
@@ -1349,6 +1429,9 @@ Desarrollar una Landing Page funcional que comunique la propuesta de valor del p
 - US02: Como visitante, deseo navegar entre secciones para explorar el contenido.
 - US03: Como visitante, deseo ver información clara y organizada para generar confianza.
 
+<a id="tabla-17"></a>
+**Tabla 17:** *Resumen ejecutivo del Sprint Planning 1.*
+
 | Sprint # | Sprint 1 |
 | :--- | :--- |
 | **Sprint Planning Background** | Desarrollo de la Landing Page y consolidación de artefactos de análisis y diseño. |
@@ -1366,6 +1449,9 @@ Desarrollar una Landing Page funcional que comunique la propuesta de valor del p
 
 ---
 ##### 5.2.1.2. Aspect Leaders and Collaborators
+
+<a id="tabla-18"></a>
+**Tabla 18:** *Asignación de roles y responsabilidades en el repositorio para el Sprint 1.*
 
 | Team Member | GitHub Username | Landing Page leader(L) collaborator(C)  |
 | :--- | :--- | :--- |
@@ -1386,6 +1472,9 @@ Debido al alcance del primer avance, todos los integrantes participaron en conju
 
 El Sprint Backlog se definió a partir de las User Stories priorizadas en el Product Backlog.  
 Cada historia fue descompuesta en tareas técnicas para facilitar su implementación y asignación dentro del equipo.
+
+<a id="tabla-19"></a>
+**Tabla 19:** *Sprint Backlog detallado para el Sprint 1.*
 
 | US ID | User Story / Tareas Técnicas | Responsable | Estado |
 | :--- | :--- | :--- | :--- |
@@ -1411,6 +1500,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ###  Desglose por User Stories
 
+<a id="tabla-20"></a>
+**Tabla 20:** *Desglose de tareas técnicas: US-L08.*
+
 #### US-L08: Visualización de propuesta de valor
 | Tarea | Responsable |
 |------|------------|
@@ -1421,6 +1513,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ---
 
+<a id="tabla-21"></a>
+**Tabla 21:** *Desglose de tareas técnicas: US-L09.*
+
 ####  US-L09: Consumo de testimonios
 | Tarea | Responsable |
 |------|------------|
@@ -1429,6 +1524,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | Aplicar estilos visuales | Equipo |
 
 ---
+
+<a id="tabla-22"></a>
+**Tabla 22:** *Desglose de tareas técnicas: US-L07.*
 
 ####  US-L07: Suscripción a Newsletter
 | Tarea | Responsable |
@@ -1439,6 +1537,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ---
 
+<a id="tabla-23"></a>
+**Tabla 23:** *Desglose de tareas técnicas: US-L10.*
+
 ####  US-L10: Adaptabilidad móvil
 | Tarea | Responsable |
 |------|------------|
@@ -1447,7 +1548,11 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | Probar visualización en móviles | Equipo |
 
 ---
+
 ###  EP-01 – Gestión de usuarios
+
+<a id="tabla-24"></a>
+**Tabla 24:** *Desglose de tareas técnicas: EP-01 (Gestión de usuarios).*
 
 | USER STORY | TAREAS | RESPONSABLE |
 |------------|---------|-------------|
@@ -1460,6 +1565,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ---
 
+<a id="tabla-25"></a>
+**Tabla 25:** *Desglose de tareas técnicas: EP-02 (Búsqueda y filtrado).*
+
 ###  EP-02 – Búsqueda y filtrado
 
 | USER STORY | TAREAS | RESPONSABLE |
@@ -1470,6 +1578,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 | US-10 – Ordenar resultados | Implementar opciones de ordenamiento | Equipo |
 
 ---
+
+<a id="tabla-26"></a>
+**Tabla 26:** *Desglose de tareas técnicas: EP-03 (Perfiles y reseñas).*
 
 ###  EP-03 – Perfiles y reseñas
 
@@ -1484,6 +1595,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ###  EP-04 – Contratación y pagos
 
+<a id="tabla-27"></a>
+**Tabla 27:** *Desglose de tareas técnicas: EP-04 (Contratación y pagos).*
+
 | USER STORY | TAREAS | RESPONSABLE |
 |------------|---------|-------------|
 | US-08 – Contratar servicio | Diseño de formulario contratación | Equipo |
@@ -1492,6 +1606,9 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 ---
 
 ###  EP-05 – Comunicación y notificaciones
+
+<a id="tabla-28"></a>
+**Tabla 28:** *Desglose de tareas técnicas: EP-05 (Comunicación y notificaciones).*
 
 | USER STORY | TAREAS | RESPONSABLE |
 |------------|---------|-------------|
@@ -1502,12 +1619,18 @@ Cada historia fue descompuesta en tareas técnicas para facilitar su implementac
 
 ###  EP-06 – Gestión de disponibilidad
 
+<a id="tabla-29"></a>
+**Tabla 29:** *Desglose de tareas técnicas: EP-06 (Gestión de disponibilidad).*
+
 | USER STORY | TAREAS | RESPONSABLE |
 |------------|---------|-------------|
 | US-26 – Gestión de disponibilidad | Implementación calendario frontend | Equipo |
 |  | Diseño responsive del calendario | Equipo |
 
 ###  Resumen del Sprint Backlog
+
+<a id="tabla-30"></a>
+**Tabla 30:** *Estado final de las User Stories del Sprint 1.*
 
 | ID | User Story | Estado |
 |----|-----------|--------|
@@ -1608,6 +1731,8 @@ Desarrollar el frontend de la futura web app siguiendo los diseños establecidos
 - Estructura base del proyecto frontend
 - Integración del diseño UX/UI previamente definido
 
+<a id="tabla-31"></a>
+**Tabla 31:** *Resumen ejecutivo del Sprint Planning 2.*
 
 | Sprint # | Sprint 2 |
 | :--- | :--- |
@@ -1624,6 +1749,10 @@ Desarrollar el frontend de la futura web app siguiendo los diseños establecidos
 ----
 
 ##### 5.2.2.2. Aspect Leaders and Collaborators.
+
+<a id="tabla-32"></a>
+**Tabla 32:** *Asignación de roles y responsabilidades en el repositorio para el Sprint 2.*
+
 | Team Member | GitHub Username | web app implementation leader(L) collaborator(C)  |
 | :--- | :--- | :--- |
 | Garcia Cerpa, Braden Raid | BradenGarcia | C |
@@ -1635,6 +1764,8 @@ Desarrollar el frontend de la futura web app siguiendo los diseños establecidos
 ---
 ##### 5.2.2.3.Sprint Backlog 2.
 
+<a id="tabla-33"></a>
+**Tabla 33:** *Sprint Backlog detallado para el Sprint 2.*
 
 | USER STORY | TÍTULO | DESCRIPCIÓN | ESTIMACIÓN HORAS | ASSIGNED TO | ESTADO |
 |------------|---------|-------------|------------------|-------------|--------|
@@ -1655,6 +1786,10 @@ Desarrollar el frontend de la futura web app siguiendo los diseños establecidos
 | US-26 | Gestión de disponibilidad | Desarrollo de interfaz para configuración de disponibilidad de trabajadoras. | 5 h | Equipo | DONE |
 
 ##### 5.2.2.4.Development Evidence for Sprint Review.
+
+<a id="tabla-34"></a>
+**Tabla 34:** *Registro de commits y evidencia de integración continua (CI) en GitHub.*
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited |
 |------------|--------|-----------|----------------|----------------------|----------|
 |   InCleanHome-frontend         |  feature/Vara      |  aab006a         |  feat(booking): setup booking domain structure and initial components              |                      |      09/05/2026    |
