@@ -97,7 +97,8 @@ La colaboración se distribuyó de manera equitativa: **Natalia Valverde** estab
 
 ---
 
-#### **Trabajo Parcial (TP)**
+#### **Trabajo Parcial (TP) **
+
 Se consolidó la primera versión funcional de la aplicación web utilizando Vue 3 y Vite, integrando internacionalización (i18n) y simulando la persistencia de datos localmente mediante JSON Server. El equipo realizó un *merge* final de ramas por módulos, validando la consistencia de estilos y garantizando el correcto flujo de las rutas principales antes del cierre de la documentación.
 ---
 
