@@ -2044,11 +2044,13 @@ Desarrollar el backend del proyecto y desplegar en producción el frontend y el 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited |
 |------------|--------|-----------|----------------|----------------------|----------|
-| InCleanHome-Backend | feature |  |  |  |  |
-| InCleanHome-Backend | feature |  |  |  |  |
-| InCleanHome-Backend | feature |  |  |  |  |
-| InCleanHome-Backend | feature |  |  |  |  |
-| InCleanHome-Backend | feature |  |  |  |  |
+| InCleanHome-Backend | feature |  7693527| feat:new frontend version |  -| 18/06/2026 |
+| InCleanHome-Backend | feature | 6e5dbd2 | fixed BookingRequestCommands |  -|  18/06/2026|
+| InCleanHome-Backend | feature | d557fd0 | feat: Update MessagingResources.cs |-  |  18/06/2026|
+| InCleanHome-Backend | feature | ac92ae6 | chore:InCleanHome backend with DDD bounded contexts
+ | - |  18/06/2026|
+| InCleanHome-Backend | feature | 4b805cd |fix: fix UserCommandService
+  | - | 18/06/2026 |
 ##### 5.2.3.5.Execution Evidence for Sprint Review.
 <img src="./assets/backend/endpoints.png" alt="wireframes web application 1" width="1500">
 <img src="./assets/backend/pruebas.png" alt="wireframes web application 1" width="1500">
@@ -2166,3 +2168,9 @@ El equipo logró cumplir con los objetivos del Sprint 3, completando la implemen
 - Ministerio de Trabajo y Promoción del Empleo [MTPE]. (2026). Reporte sobre la informalidad en el sector del trabajo doméstico remunerado en el Perú. Lima, Perú.
 
 ## 8. Anexos
+
+Link deploy fronted: in-clean-home-frontend.vercel.app
+
+link deploy backend: https://incleanhome-api-e4tv.onrender.com
+
+Link endpoints: https://incleanhome-api-e4tv.onrender.com/swagger/index.html
