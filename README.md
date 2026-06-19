@@ -2177,7 +2177,7 @@ Link deploy landingpage:
 <a href="https://incleanhome-landingpage.onrender.com">InCleanHome-LandingPage</a>
 
 Link deploy fronted: 
-<a href="https://in-clean-home-frontend.vercel.app/register-client">InCleanHome-Frontend</a>
+<a href="https://in-clean-home-frontend.vercel.app/login">InCleanHome-Frontend</a>
 
 link deploy backend: 
 <a href="https://incleanhome-api-e4tv.onrender.com">InCleanHome-Backend</a>
