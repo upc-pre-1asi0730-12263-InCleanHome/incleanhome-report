@@ -1334,7 +1334,7 @@ InCleanHome implementa los siguientes mecanismos de navegación:
 
 #### 4.8.1. Database Diagram
 
-<img src="./assets/C4Diagram/Digrama.png" alt="Diagrama" width="550"/>
+<img src="./assets/C4Diagram/Diagrama.png" alt="Diagrama" width="550"/>
 
 ## Capítulo V: Product Implementation, Validation & Deployment
 
