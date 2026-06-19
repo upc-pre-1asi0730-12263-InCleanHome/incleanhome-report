@@ -47,6 +47,8 @@
 
 ### Registro de Versiones del Informe
 
+**Tabla 1:** *Registro histórico de versiones del documento.*
+
 | Versión | Fecha | Autor(es) | Descripción de modificación |
 | :--- | :--- | :--- | :--- |
 | 0.1 | 10/04/2026 | Valverde, Natalia | Creación del repositorio. Adición de Startup & Solution Profile, Antecedentes, Problemática, Lean UX y Segmentos Objetivos. |
