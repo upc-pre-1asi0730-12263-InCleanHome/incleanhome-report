@@ -2173,8 +2173,14 @@ El equipo logró cumplir con los objetivos del Sprint 3, completando la implemen
 
 ## 8. Anexos
 
-Link deploy fronted: in-clean-home-frontend.vercel.app
+Link deploy landingpage: 
+<a href="https://incleanhome-landingpage.onrender.com">InCleanHome-LandingPage</a>
 
-link deploy backend: https://incleanhome-api-e4tv.onrender.com
+Link deploy fronted: 
+<a href="https://in-clean-home-frontend.vercel.app/register-client">InCleanHome-Frontend</a>
 
-Link endpoints: https://incleanhome-api-e4tv.onrender.com/swagger/index.html
+link deploy backend: 
+<a href="https://incleanhome-api-e4tv.onrender.com">InCleanHome-Backend</a>
+
+Link endpoints: 
+<a href="https://incleanhome-api-e4tv.onrender.com/swagger/index.html">InCleanHome-EndPoints</a>
