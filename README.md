@@ -1870,6 +1870,29 @@ El equipo logró cumplir con los objetivos del Sprint 2, estableciendo un gran a
 
 ##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
+**Vista cliente:**
+<img src="assets/sprint3/webApplicationEvidence/cliente1.jpeg" alt="cliente1" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/cliente2.jpeg" alt="cliente2" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/cliente3.jpeg" alt="cliente3" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/cliente4.jpeg" alt="cliente4" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/cliente5.jpeg" alt="cliente5" width="1500">
+
+**Vista trabajadora:**
+<img src="assets/sprint3/webApplicationEvidence/trabajadora1.jpeg" alt="trabajadora1" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/trabajadora2.jpeg" alt="trabajadora2" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/trabajadora3.jpeg" alt="trabajadora3" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/trabajadora4.jpeg" alt="trabajadora4" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/trabajadora5.jpeg" alt="trabajadora5" width="1500">
+
+**Login:**
+<img src="assets/sprint3/webApplicationEvidence/login.jpeg" alt="login" width="1500">
+
+**Register:**
+<img src="assets/sprint3/webApplicationEvidence/registro1.jpeg" alt="register1" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/registro2.jpeg" alt="register2" width="1500">
+<img src="assets/sprint3/webApplicationEvidence/registro3.jpeg" alt="register3" width="1500">
+
+
 ##### 5.2.3.8.Team Collaboration Insights during Sprint.
  
 
