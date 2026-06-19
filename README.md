@@ -94,6 +94,7 @@ La colaboración se distribuyó de manera equitativa: **Natalia Valverde** estab
 <p align="center">
   <img src="./assets/evidencias/github-network-graph2.png" alt="GitHub Network Graph" width="600">
 </p>
+
 ---
 
 #### **Trabajo Parcial (TP)**
@@ -122,6 +123,7 @@ AGREGAR IMAGEN
 
 El repositorio del proyecto se encuentra disponible en el siguiente enlace:
 [https://github.com/upc-pre-1asi0730-12263-InCleanHome](https://github.com/upc-pre-1asi0730-12263-InCleanHome)
+---
 
 # Tabla de Contenidos
 
