@@ -2184,3 +2184,9 @@ link deploy backend:
 
 Link endpoints: 
 <a href="https://incleanhome-api-e4tv.onrender.com/swagger/index.html">InCleanHome-EndPoints</a>
+
+ Video about the product
+<a href="https://www.youtube.com/watch?v=865FvNv-kJo">InCleanHome-AboutTheProduct</a>
+
+ Video about the team
+ <a href="https://youtu.be/yzROPWGOR7Y">InCleanHome-AboutTheTeam</a>
