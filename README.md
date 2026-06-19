@@ -2005,6 +2005,16 @@ El equipo logró cumplir con los objetivos del Sprint 2, estableciendo un gran a
 #### 5.2.3 Sprint 3
 
 ##### 5.2.3.1.Sprint Planning 3.
+**Sprint Goal:**
+Desarrollar el backend del proyecto y desplegar en producción el frontend y el backend usando las tecnologias correspondientes.
+
+**Duración del Sprint:**
+2 semanas
+
+**Alcance del Sprint:**
+- Implementar el backend de la solucion del proyecto.
+- Crear una api con los endpoints correspondientes.
+- Integración del diseño UX/UI previamente definido
 
 ##### 5.2.3.2. Aspect Leaders and Collaborators.
 
