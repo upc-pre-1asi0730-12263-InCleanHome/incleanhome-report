@@ -95,12 +95,10 @@ La colaboración se distribuyó de manera equitativa: **Natalia Valverde** estab
   <img src="./assets/evidencias/github-network-graph2.png" alt="GitHub Network Graph" width="600">
 </p>
 
----
 
-#### **Trabajo Parcial (TP) **
-
+#### **Trabajo Parcial (TP)**
 Se consolidó la primera versión funcional de la aplicación web utilizando Vue 3 y Vite, integrando internacionalización (i18n) y simulando la persistencia de datos localmente mediante JSON Server. El equipo realizó un *merge* final de ramas por módulos, validando la consistencia de estilos y garantizando el correcto flujo de las rutas principales antes del cierre de la documentación.
----
+
 
 #### **TB2**
 Todas las actividades planificadas para la entrega de la TB2 han sido completadas con éxito. En esta etapa, el equipo migró la arquitectura inicial basada en simulación local hacia un ecosistema de producción real. Se rediseñó el backend eliminando el JSON Server y **se crearon nuevos y más Bounded Contexts** para segmentar limpiamente la lógica de negocio, lo que requirió una edición integral y el refinamiento de la interfaz del Frontend en Vue 3 para consumir estos nuevos endpoints API.
@@ -124,6 +122,7 @@ AGREGAR IMAGEN
 
 El repositorio del proyecto se encuentra disponible en el siguiente enlace:
 [https://github.com/upc-pre-1asi0730-12263-InCleanHome](https://github.com/upc-pre-1asi0730-12263-InCleanHome)
+
 ---
 
 # Tabla de Contenidos
