@@ -1851,6 +1851,28 @@ Durante el Sprint 2, el equipo trabajó de forma colaborativa en el desarrollo d
 
 **Conclusión:**
 El equipo logró cumplir con los objetivos del Sprint 2, estableciendo un gran avance en el desarrollo de la web app incluyendo el modelo de negocio y siguiendo buenas practicas en la arquitectura del proyecto.
+
+#### 5.2.3 Sprint 3
+
+##### 5.2.3.1.Sprint Planning 3.
+
+##### 5.2.3.2. Aspect Leaders and Collaborators.
+
+##### 5.2.3.3.Sprint Backlog 3.
+
+
+##### 5.2.3.4.Development Evidence for Sprint Review.
+
+##### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+##### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+##### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+##### 5.2.3.8.Team Collaboration Insights during Sprint.
+ 
+
 ## 6. Conclusiones y Recomendaciones
 #### Conclusiones
 - A diferencia de nuestros competidores en el mercado, nuestro proyecto, InCleanHome, se posiciona más con un enfoque de personalización profunda y un sistema de verificación de antecedentes y seguros contra daños, lo cual responde directamente a las necesidades de los segmentos objetivos de nuestro proyecto, que son las trabajadoras del hogar y los clientes que buscan servicios domésticos.
