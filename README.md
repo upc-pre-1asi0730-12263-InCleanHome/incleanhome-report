@@ -12,27 +12,18 @@
     Carrera de Ingeniería de Software </div>
 <div align="center">
     <br><br>
-    <h2>1ASI0730</h2>
-    <br> <br>
-   <h2>Aplicaciones Web</h2> 
-    <br> <br>
+    <h3>1ASI0730</h3>
+   <h3>Aplicaciones Web</h3> 
     NRC
-    <br> <br>
-   <h2>12263 </h2> 
-    <br> <br>
-   <h2>Informe de Trabajo Final</h2> 
-    <br> <br>
+   <h3>12263 </h3> 
+   <h3>Informe del Trabajo Final</h3> 
     Docente
-    <br> <br>
-    <h2>Castro Veramendi, Rafael Oswaldo</h2>
-    <br> <br>
+    <h3>Castro Veramendi, Rafael Oswaldo</h3>
     Equipo
-    <br> <br>
-  <h2>HomeMatch</h2>
+  <h3>HomeMatch</h3>
     <br> <br>
     Proyecto
-    <br> <br>
-    <h2>InCleanHome</h2>
+    <h3>InCleanHome</h3>
 
 </div>
 
@@ -48,10 +39,8 @@
 |  u202411622           |              Vara Velásquez, Oscar Fernando                 |
 
 </div>
-
-<div align="center"> Período 202610 </div>
-<br> <br>
-<div align="center"> JuLio 2026 </div>
+<h3 align="center"> Período 202610 </h3>
+<h3 align="center"> Julio 2026 </h3>
 
 
 ## Registro de Versiones del Informe
