@@ -24,9 +24,9 @@
     <br> <br>
     Proyecto
     <h3>InCleanHome</h3>
-
+  <br> <br>
 </div>
-
+  
 <div align="center">
     <h3>Integrantes</h3>
 
@@ -39,8 +39,12 @@
 |  u202411622           |              Vara Velásquez, Oscar Fernando                 |
 
 </div>
+  <br> <br>
 <h3 align="center"> Período 202610 </h3>
+  <br> <br>
 <h3 align="center"> Julio 2026 </h3>
+
+
 
 
 ## Registro de Versiones del Informe
