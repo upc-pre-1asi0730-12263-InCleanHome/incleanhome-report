@@ -1,4 +1,3 @@
-﻿# InCleanHome Report
 
 
 
@@ -11,28 +10,35 @@
 </h1>
 
 <h3 align="center">
-    Carrera: Ingeniería de Software
+    Carrera de Ingeniería de Software
     <br> <br>
-    Curso: 1ASI0730 - Aplicaciones Web
+    Aplicaciones Web
     <br> <br>
-    Sección: 12263 
+    NRC
     <br> <br>
-    Profesor: Castro Veramendi, Rafael Oswaldo
-    <br> <br>
-    Ciclo: 2026-01 
+    12263 
     <br> <br>
     Informe de Trabajo Final
     <br> <br>
-    Startup: HomeMatch
+    Docente
     <br> <br>
-    Producto: InCleanHome
+    Castro Veramendi, Rafael Oswaldo
+    <br> <br>
+    Equipo
+    <br> <br>
+    HomeMatch
+    <br> <br>
+    Proyecto
+    <br> <br>
+    InCleanHome
+
 </h3>
 
-<div align="center">
+<div align="center">Integrantes
 
-| <div style="width:300px">Alumno</div>       | <div style="width:125px">Código</div> |
+| <div style="width:300px">Código</div>       | <div style="width:125px">Apellidos y Nombres</div> |
 |:-------------------------------------------:|:-------------------------------------:|
-|  Choy Robles, Vanessa May Lang              |              u202317450               |
+|                 u202317450                  |        Choy Robles, Vanessa May Lang            |
 |  Espino Rossi, Victor Manuel                |              u202411567               |
 |  Garcia Cerpa, Braden Raid                  |              u202415618               |
 |  Valverde Portuguez, Natalia Ximena         |              u20231a816               |
@@ -40,6 +46,7 @@
 
 </div>
 
+<div align="center"> Período 202610 </div>
 <div align="center"> Junio 2026 </div>
 
 
