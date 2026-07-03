@@ -5,51 +5,53 @@
     <img src="./assets/logo-upc.png" alt="upc-logo" width="80px" height="80px"/>
 </p>
 
-<h1 align="center">
+<div align="center">
     Universidad Peruana de Ciencias Aplicadas
-</h1>
-
-<h3 align="center">
-    Carrera de Ingeniería de Software
+</div>
+<div align="center">
+    Carrera de Ingeniería de Software </div>
+<div align="center">
     <br><br>
-    1ASI0730
+    <h2>1ASI0730</h2>
     <br> <br>
-    Aplicaciones Web
+   <h2>Aplicaciones Web</h2> 
     <br> <br>
     NRC
     <br> <br>
-    12263 
+   <h2>12263 </h2> 
     <br> <br>
-    Informe de Trabajo Final
+   <h2>Informe de Trabajo Final</h2> 
     <br> <br>
     Docente
     <br> <br>
-    Castro Veramendi, Rafael Oswaldo
+    <h2>Castro Veramendi, Rafael Oswaldo</h2>
     <br> <br>
     Equipo
     <br> <br>
-    HomeMatch
+  <h2>HomeMatch</h2>
     <br> <br>
     Proyecto
     <br> <br>
-    InCleanHome
+    <h2>InCleanHome</h2>
 
-</h3>
+</div>
 
-<div align="center">Integrantes
+<div align="center">
+    <h3>Integrantes</h3>
 
 | <div style="width:300px">Código</div>       | <div style="width:125px">Apellidos y Nombres</div> |
 |:-------------------------------------------:|:-------------------------------------:|
-|                 u202317450                  |        Choy Robles, Vanessa May Lang            |
-|  Espino Rossi, Victor Manuel                |              u202411567               |
-|  Garcia Cerpa, Braden Raid                  |              u202415618               |
-|  Valverde Portuguez, Natalia Ximena         |              u20231a816               |
-|  Vara Velásquez, Oscar Fernando             |              u202411622               |
+|              u202317450                  |  Choy Robles, Vanessa May Lang     |
+|              u202411567                     |  Espino Rossi, Victor Manuel          |
+|      u202415618                 |                 Garcia Cerpa, Braden Raid         |
+|  u20231a816          |             Valverde Portuguez, Natalia Ximena               |
+|  u202411622           |              Vara Velásquez, Oscar Fernando                 |
 
 </div>
 
 <div align="center"> Período 202610 </div>
-<div align="center"> Junio 2026 </div>
+<br> <br>
+<div align="center"> JuLio 2026 </div>
 
 
 ## Registro de Versiones del Informe
