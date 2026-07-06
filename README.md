@@ -1,4 +1,4 @@
-
+﻿
 
 
 <p align="center">
@@ -30,13 +30,13 @@
 <div align="center">
     <h3>Integrantes</h3>
 
-| <div style="width:300px">Código</div>       | <div style="width:125px">Apellidos y Nombres</div> |
-|:-------------------------------------------:|:-------------------------------------:|
-|              u202317450                  |  Choy Robles, Vanessa May Lang     |
-|              u202411567                     |  Espino Rossi, Victor Manuel          |
-|      u202415618                 |                 Garcia Cerpa, Braden Raid         |
-|  u20231a816          |             Valverde Portuguez, Natalia Ximena               |
-|  u202411622           |              Vara Velásquez, Oscar Fernando                 |
+| Código | Apellidos y Nombres |
+|:--------|:--------------------|
+| u202317450 | Choy Robles, Vanessa May Lang |
+| u202411567 | Espino Rossi, Victor Manuel |
+| u202415618 | Garcia Cerpa, Braden Raid |
+| u20231a816 | Valverde Portuguez, Natalia Ximena |
+| u202411622 | Vara Velásquez, Oscar Fernando |
 
 </div>
   <br> <br>
