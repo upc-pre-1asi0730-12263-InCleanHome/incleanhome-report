@@ -30,32 +30,16 @@
 <div align="center">
     <h3>Integrantes</h3>
 
-<table>
-  <tr>
-    <th align="left">Código</th>
-    <th align="left">Apellidos y Nombres</th>
-  </tr>
-  <tr>
-    <td>u202317450</td>
-    <td>Choy Robles, Vanessa May Lang</td>
-  </tr>
-  <tr>
-    <td>u202411567</td>
-    <td>Espino Rossi, Victor Manuel</td>
-  </tr>
-  <tr>
-    <td>u202415618</td>
-    <td>Garcia Cerpa, Braden Raid</td>
-  </tr>
-  <tr>
-    <td>u20231a816</td>
-    <td>Valverde Portuguez, Natalia Ximena</td>
-  </tr>
-  <tr>
-    <td>u202411622</td>
-    <td>Vara Velásquez, Oscar Fernando</td>
-  </tr>
-</table>
+**Integrantes**
+
+```text
+Código       Apellidos y Nombres
+u202317450   Choy Robles, Vanessa May Lang
+u202411567   Espino Rossi, Victor Manuel
+u202415618   Garcia Cerpa, Braden Raid
+u20231a816   Valverde Portuguez, Natalia Ximena
+u202411622   Vara Velásquez, Oscar Fernando
+```
 
 </div>
   <br> <br>
