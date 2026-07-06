@@ -2167,6 +2167,124 @@ La autenticación de los endpoints protegidos se realiza mediante **JWT (JSON We
 
 **Conclusión:**
 El equipo logró cumplir con los objetivos del Sprint 3, completando la implementación del backend de la plataforma InCleanHome y dejando el sistema listo para su despliegue en producción.
+#### 5.2.4 Sprint 4
+##### 5.2.4.1 Sprint Planning 4
+
+Sprint Goal:
+Completar la integración del sistema, corregir incidencias finales, optimizar la aplicación y preparar la versión final para la entrega del proyecto.
+
+Duración del Sprint:
+2 semanas
+
+Alcance del Sprint:
+
+Integración completa entre frontend y backend.
+Corrección de errores detectados.
+Optimización del rendimiento.
+Validación funcional del sistema.
+Documentación final.
+Despliegue definitivo.
+Tabla 39. Resumen ejecutivo del Sprint Planning 4
+Sprint #	Sprint 4
+Sprint Planning Background	Finalización del proyecto mediante integración completa, pruebas y despliegue definitivo.
+Date	2026-06-30
+Time	16:00
+Location	Server Report
+Prepared by	Team Leader
+Attendees	All members
+Sprint Review Summary	Se integró completamente el frontend con el backend, se corrigieron errores y se realizó el despliegue final del sistema.
+Sprint Goal	Entregar una versión estable, funcional y documentada del sistema InCleanHome.
+Sprint Velocity	100%
+Sum of Story Points	Correcciones finales + Integración + Deployment
+
+##### 5.2.4.2 Aspect Leaders and Collaborators
+Tabla 40. Roles del Sprint 4
+Team Member	GitHub Username	Integration Leader (L) / Collaborator (C)
+Garcia Cerpa, Braden Raid	BradenGarcia	C
+Espino Rossi, Victor Manuel	Vmer140	C
+Vara Velasquez, Oscar Fernando	Varometro159	C
+Choy Robles, Vanessa May Lang	VMLCR	C
+Valverde Portuguez, Natalia Ximena	NatValverde15	L
+5.2.4.3 Sprint Backlog 4
+Tabla 41. Sprint Backlog
+USER STORY	TÍTULO	DESCRIPCIÓN	ESTADO
+US-40	Integración Frontend-Backend	Conectar completamente la interfaz con los servicios REST.	DONE
+US-41	Corrección de Bugs	Resolver errores encontrados durante las pruebas funcionales.	DONE
+US-42	Optimización	Mejorar tiempos de carga y rendimiento del sistema.	DONE
+US-43	Validación Final	Ejecutar pruebas funcionales de todos los módulos.	DONE
+US-44	Documentación Final	Actualizar documentación técnica y manual de usuario.	DONE
+US-45	Despliegue Final	Publicación de la versión estable del sistema.	DONE
+5.2.4.4 Development Evidence for Sprint Review
+Tabla 42. Evidencia de desarrollo
+Repository	Branch	Commit Message	Commited
+InCleanHome-Frontend	main	fix: frontend integration with backend services	28/06/2026
+InCleanHome-Backend	main	fix: resolve authentication issues	29/06/2026
+InCleanHome-Backend	main	refactor: optimize API responses	29/06/2026
+InCleanHome-Frontend	main	feat: final UI improvements	30/06/2026
+InCleanHome	main	docs: update final project documentation	30/06/2026
+
+##### 5.2.4.5 Execution Evidence for Sprint Review
+
+Durante este Sprint se realizaron pruebas completas del sistema integrado.
+
+Evidencias incluidas:
+
+Inicio de sesión.
+Registro de clientes.
+Registro de trabajadoras.
+Búsqueda de trabajadoras.
+Reserva de servicios.
+Gestión de pagos.
+Mensajería.
+Perfil de usuario.
+Gestión de disponibilidad.
+Reseñas.
+
+##### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4 se verificó el correcto funcionamiento de todos los servicios REST implementados.
+
+Se realizaron las siguientes actividades:
+
+Validación de todos los endpoints mediante Swagger.
+Pruebas de autenticación JWT.
+Validación de respuestas HTTP.
+Corrección de errores detectados.
+Optimización de consultas a la base de datos.
+Revisión de seguridad básica de los endpoints protegidos.
+
+Todos los servicios quedaron documentados y operativos para la entrega final del proyecto.
+
+##### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+La versión final fue desplegada exitosamente.
+
+Se verificó el funcionamiento de:
+
+Frontend publicado.
+Backend desplegado.
+Base de datos PostgreSQL.
+API REST.
+Autenticación JWT.
+Comunicación completa Frontend ↔ Backend.
+
+##### 5.2.4.8 Team Collaboration Insights during Sprint
+
+Durante el Sprint 4 el equipo trabajó en la estabilización y cierre del proyecto, enfocándose en la integración completa del sistema y la preparación para la entrega final.
+
+Aspectos positivos
+Integración exitosa entre frontend y backend.
+Corrección de incidencias detectadas durante las pruebas.
+Organización eficiente del trabajo colaborativo mediante GitHub.
+Validación completa de los módulos implementados.
+Actualización de la documentación técnica y funcional.
+Aspectos a mejorar
+Incrementar la frecuencia de integración continua durante el desarrollo.
+Automatizar una mayor cantidad de pruebas.
+Mejorar la planificación para reducir correcciones de última hora.
+Conclusión
+
+El Sprint 4 permitió consolidar el proyecto InCleanHome, entregando una plataforma completamente funcional, integrada y desplegada. Se verificó el correcto funcionamiento de los principales módulos del sistema, se completó la documentación requerida y se obtuvo una versión estable lista para su presentación y evaluación final.
 
 ## 6. Conclusiones y Recomendaciones
 #### Conclusiones
